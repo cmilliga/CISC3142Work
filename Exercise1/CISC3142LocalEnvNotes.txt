@@ -1,0 +1,6 @@
+-Bash, 3.2.57,https://tiswww.case.edu/php/chet/bash/bashtop.html , https://www.gnu.org/software/bash/manual/ 
+-Git, 2.17.2, https://git-scm.com/downloads, https://git-scm.com/doc 
+-G++, 4.2.1, https://brew.sh/, https://gcc.gnu.org/onlinedocs/
+-GNU Make, 3.81, https://brew.sh/, https://www.gnu.org/software/make/manual/make.html
+-Homebrew, 3.5.10, https://docs.brew.sh/Manpage
+-TextEdit
