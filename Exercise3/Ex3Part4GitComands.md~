@@ -1,4 +1,4 @@
-# Here are some commands you should now for git
+#Here are some commands you should now for git
 1. gitinit: initializes a directory into a repository
 2. gitstatus: give a overview of files added, modified, deleted, since last commit and more
 3. gitadd: adds files to be commited
