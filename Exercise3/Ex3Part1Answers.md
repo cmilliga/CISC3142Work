@@ -17,7 +17,7 @@
 ## j is 100
 
 - # Ex2.14
-## the sum of the numbers 0 through 
+## will print 100 then the sum of the numbers 0 through 9 which is 45 
 
 - # Ex2.17
 ## "10 10" is printed
