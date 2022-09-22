@@ -1,7 +1,11 @@
 # Use a pound sign to make a header(#)
 ## Use two pound signs to make an H2(##)
 
+~~Use double tildes around text to strikethrough(~~)~~
+
 **Use double asterisks around text to bold(**)**
+
+[square bracets followed by a link in parens are used for a link](https://www.harrys.com)
 
 *Use one asterisk around text to italicize(*)*
 
