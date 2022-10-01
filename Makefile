@@ -8,7 +8,7 @@ lab4: Ex4_3_17 Ex4_3_23 Ex4_4_28 Ex4_1_Inflation Ex4_2_Nutrition
 	@echo "Running Program Ex4_1_Inflation"
 	cd Exercise4 && rm -f temp.txt && echo "50 4 5" > temp.txt && ./Ex4_1_Inflation < temp.txt
 	@echo "Running Program Ex4_2_Nutrition"
-	cd Exercise4 && rm -f temp.txt && echo "60000" > temp.txt && ./Ex4_2_Nutrition < temp.txt
+	cd Exercise4 && rm -f temp.txt && echo "60000 q" > temp.txt && ./Ex4_2_Nutrition < temp.txt
 
 lab4noRun: Ex4_3_17 Ex4_3_23 Ex4_4_28 Ex4_1_Inflation Ex4_2_Nutrition
 	@echo "Not running lab 4 programs"
