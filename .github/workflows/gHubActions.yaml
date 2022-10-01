@@ -6,5 +6,4 @@ jobs:
     steps:
     - run: echo "Running Makefile for Lab4"
     - name: Run Make for Lab4
-      run: make lab4
-
+      run: make
