@@ -7,5 +7,5 @@ jobs:
     steps:
       -run: echo "Running makefile"
       -name: create prog
-       run: g++ hello.cpp
+       run: echo -e '#include <iostream>\n int main(){std::cout << "Hello World";}' > hello.cpp
       -run: ./a.out
