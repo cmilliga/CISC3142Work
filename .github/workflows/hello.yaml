@@ -3,6 +3,7 @@ on: [push]
 jobs:
 	HelloWorld:
 		runs-on: macos-latest
+		#steps is the indivual actions done in a single push
 		steps:
 			-run: echo "Running makefile"
 			-name: create prog
