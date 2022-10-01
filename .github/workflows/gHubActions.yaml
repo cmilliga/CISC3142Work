@@ -5,7 +5,7 @@ jobs:
     runs-on: macos-latest
     steps:
     - name: configure
-    - run: ./configure
+      run: ./configure
     - run: echo "Running Makefile for Lab4"
     - name: Run Make for Lab4
       run: make
