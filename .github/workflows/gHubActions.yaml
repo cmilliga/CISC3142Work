@@ -1,15 +1,10 @@
 name: CISC3142Lab4
-
 on: [push]
-
 jobs:
   build:
-
-
     runs-on: macos-latest
-
     steps:
-    - uses: actions/checkout@v3
+    - run: echo "Running Makefile for Lab4"
     - name: Run Make for Lab4
       run: make lab4
 
