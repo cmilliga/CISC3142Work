@@ -8,4 +8,4 @@ jobs:
       uses: actions/checkout@v2
     - run: echo "Running Makefile for Lab4"
     - name: Run Make for Lab4
-      run: make build
+      run: make -f makefile
