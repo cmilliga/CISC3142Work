@@ -1,3 +1,6 @@
+lab4noRun: Ex4_3_17 Ex4_3_23 Ex4_4_28 Ex4_1_Inflation Ex4_2_Nutrition
+	@echo "Not running lab 4 programs"
+
 lab4: Ex4_3_17 Ex4_3_23 Ex4_4_28 Ex4_1_Inflation Ex4_2_Nutrition
 	@echo "Running Program Ex4_3_17"
 	./Exercise4/Ex4_3_17
