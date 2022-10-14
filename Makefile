@@ -1,4 +1,4 @@
-lab5: Ex5_1_Sum Ex5_2_Prime Ex5_2_LinReg
+lab5: Ex5_1_Sum Ex5_2_Prime Ex5_3_LinReg
 	@echo "Running Program Ex5_1_Sum"
 	cd Exercise5 && ./Ex5_1_Sum < sumInput.txt
 	@echo "Running Program Ex5_2_Prime"
