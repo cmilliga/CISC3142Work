@@ -1,3 +1,35 @@
+lab5: Ex5_1_Sum Ex5_2_Prime Ex5_2_LinReg
+	@echo "Running Program Ex5_1_Sum"
+	cd Exercise5 && ./Ex5_1_Sum < sumInput.txt
+	@echo "Running Program Ex5_2_Prime"
+	cd Exercise5 && ./Ex5_2_Prime
+	@echo "Running Program Ex5_3_LinReg"
+	cd Exercise5 && ./Ex5_3_LinReg < LinRegProf.txt
+
+Ex5_1_Sum: Exercise5/Ex5_1_Sum.o
+	cd Exercise5; \
+	g++ Ex5_1_Sum.o -o Ex5_1_Sum
+
+Ex5_1_Sum.o: Exercise5/Ex5_1_Sum.cpp
+	cd Exercise5; \
+	g++ -c Ex5_1_Sum.cpp -o Ex5_1_Sum.o
+
+Ex5_2_Prime: Exercise5/Ex5_2_Prime.o
+	cd Exercise5; \
+	g++ Ex5_2_Prime.o -o Ex5_2_Prime
+
+Ex5_2_Prime.o: Exercise5/Ex5_2_Prime.cpp
+	cd Exercise5; \
+	g++ -c Ex5_2_Prime.cpp -o Ex5_2_Prime.o
+
+Ex5_3_LinReg: Exercise5/Ex5_3_LinReg.o
+	cd Exercise5; \
+	g++ Ex5_3_LinReg.o -o Ex5_3_LinReg
+
+Ex5_3_LinReg.o: Exercise5/Ex5_3_LinReg.cpp
+	cd Exercise5; \
+	g++ -c Ex5_3_LinReg.cpp -o Ex5_3_LinReg.o
+
 lab4: Ex4_3_17 Ex4_3_23 Ex4_4_28 Ex4_1_Inflation Ex4_2_Nutrition
 	@echo "Running Program Ex4_3_17"
 	cd Exercise4 && rm -f temp.txt && echo "ball dog cat run a b c d e f g" > temp.txt && ./Ex4_3_17 < temp.txt

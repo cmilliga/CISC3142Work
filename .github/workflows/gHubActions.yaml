@@ -6,6 +6,6 @@ jobs:
     steps:
     - name: checkout repo
       uses: actions/checkout@v2
-    - run: echo "Running Makefile for Lab4"
-    - name: Run Make for Lab4
+    - run: echo "Running Makefile"
+    - name: Run Make
       run: make -f makefile
