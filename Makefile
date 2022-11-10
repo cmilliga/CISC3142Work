@@ -1,3 +1,26 @@
+lab7: Rectangle ConstructorSample	
+	@echo "Running Program Rectangle"
+	cd Exercise7 && ./Rectangle
+	@echo "Running Program ConstructorSample"
+	cd Exercise7 && ./ConstructorSample
+
+Rectangle: Exercise7/Rectangle.o
+	cd Exercise7; \
+	g++ Rectangle.o -o Rectangle
+
+Rectangle.o: Exercise7/Rectangle.cpp
+	cd Exercise7; \
+	g++ -c Rectangle.cpp -o Rectangle.o
+
+ConstructorSample: Exercise7/ConstructorSample.o
+	cd Exercise7; \
+	g++ ConstructorSample.o -o ConstructorSample
+
+ConstructorSample.o: Exercise7/ConstructorSample.cpp
+	cd Exercise7; \
+	g++ -c ConstructorSample.cpp -o ConstructorSample.o
+
+
 lab5: Ex5_1_Sum Ex5_2_Prime Ex5_3_LinReg
 	@echo "Running Program Ex5_1_Sum"
 	cd Exercise5 && ./Ex5_1_Sum < sumInput.txt
