@@ -1,0 +1,17 @@
+Simple Average: 2.02462e+08
+Moving Average: 
+Mar: 43.6667
+Apr: 50.6667
+May: 60.3333
+Jun: 70
+Jul: 78.3333
+Aug: 81.6667
+Sep: 80.6667
+Weighted Average: 
+Mar: 45.5
+Apr: 53.6667
+May: 63.8333
+Jun: 73.1667
+Jul: 80.6667
+Aug: 82
+Sep: 79.1667

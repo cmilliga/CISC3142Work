@@ -1,3 +1,27 @@
+lab9:	WeatherAverages	
+	@echo "Running Program WeatherAverages"
+	cd Exercise9 && ./WeatherAverages
+
+WeatherAverages: Exercise9/WeatherAverages.o
+	cd Exercise9; \
+	g++ WeatherAverages.o -o WeatherAverages
+
+WeatherAverages.o: Exercise9/WeatherAverages.cpp
+	cd Exercise9; \
+	g++ -c WeatherAverages.cpp -o WeatherAverages.o
+
+lab8: 	FilmInfoSort
+	@echo "Running Program FilmInfoSort"
+	cd Exercise8 && ./FilmInfoSort
+
+FilmInfoSort: Exercise8/FilmInfoSort.o
+	cd Exercise8; \
+	g++ FilmInfoSort.o -o FilmInfoSort
+
+FilmInfoSort.o: Exercise8/FilmInfoSort.cpp
+	cd Exercise8; \
+	g++ -c FilmInfoSort.cpp -o FilmInfoSort.o
+
 lab7: Rectangle ConstructorSample	
 	@echo "Running Program Rectangle"
 	cd Exercise7 && ./Rectangle
