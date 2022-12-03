@@ -1,0 +1,1663 @@
+Sum of Movie Lengths: 167446
+Movie Title: Best of Times, The, Popularity: 88
+Movie Title: Let It Ride, Popularity: 88
+Movie Title: New Year's Day, Popularity: 88
+Movie Title: Five Corners, Popularity: 88
+Movie Title: Fellini Satyricon, Popularity: 88
+Movie Title: Gonzo Presents Muppet Weird Stuff, Popularity: 88
+Movie Title: Great Race, The, Popularity: 88
+Movie Title: Blood in, Blood Out, Popularity: 88
+Movie Title: Guilty by Suspicion, Popularity: 88
+Movie Title: Time Machine, The, Popularity: 88
+Movie Title: Long Voyage Home, The, Popularity: 88
+Movie Title: They Were Expendable, Popularity: 88
+Movie Title: French Connection, The, Popularity: 88
+Movie Title: Final Notice, Popularity: 88
+Movie Title: Class Act, Popularity: 88
+Movie Title: Happy Birthday to Me, Popularity: 88
+Movie Title: Swedenhielms, Popularity: 88
+Movie Title: Dangerous Pursuit, Popularity: 88
+Movie Title: Creature from Black Lake, Popularity: 88
+Movie Title: Terror, The, Popularity: 88
+Movie Title: Out of Africa, Popularity: 88
+Movie Title: Ballad of Narayama, The, Popularity: 88
+Movie Title: Head Office, Popularity: 88
+Movie Title: Raw Nerve, Popularity: 88
+Movie Title: Jeremiah Johnson, Popularity: 88
+Movie Title: Russkies, Popularity: 87
+Movie Title: Destroyer, Popularity: 87
+Movie Title: B. A. D. Cats, Popularity: 87
+Movie Title: City of Joy, Popularity: 87
+Movie Title: X, Y & Zee, Popularity: 87
+Movie Title: Law & Order, Popularity: 87
+Movie Title: Adventures of Rex & Rinty, The, Popularity: 87
+Movie Title: Star Trek V: The Final Frontier, Popularity: 87
+Movie Title: Choice of Arms, Popularity: 87
+Movie Title: Jean de Florette, Popularity: 87
+Movie Title: John Wayne Six Pack, Popularity: 87
+Movie Title: Three Days of the Condor, Popularity: 87
+Movie Title: Superman, The Movie, Popularity: 87
+Movie Title: Three Strange Loves, Popularity: 87
+Movie Title: Libeled Lady, Popularity: 86
+Movie Title: Secret Policeman's Other Ball, The, Popularity: 86
+Movie Title: Twin Peaks, Popularity: 86
+Movie Title: For Your Eyes Only, Popularity: 86
+Movie Title: Fat Man & Little Boy, Popularity: 86
+Movie Title: Sacketts, The, Popularity: 86
+Movie Title: Viva Zapata!, Popularity: 86
+Movie Title: Harper, Popularity: 86
+Movie Title: Prince & the Pauper, The, Popularity: 86
+Movie Title: Golden Child, The, Popularity: 86
+Movie Title: Fozzie's Muppet Scrapbook, Popularity: 86
+Movie Title: Bliss of Mrs. Blossom, The, Popularity: 86
+Movie Title: Out of the Darkness, Popularity: 86
+Movie Title: Raven, The, Popularity: 85
+Movie Title: Man Who Shot Liberty Valance, The, Popularity: 85
+Movie Title: Magic, Popularity: 85
+Movie Title: As You Desire Me, Popularity: 85
+Movie Title: Party Girl, Popularity: 85
+Movie Title: Phantom of the Ritz, Popularity: 85
+Movie Title: Daphnis & Chloe, Popularity: 85
+Movie Title: Man from Montana, Popularity: 85
+Movie Title: Inserts, Popularity: 85
+Movie Title: Bury Me Not on the Lone Prairie, Popularity: 85
+Movie Title: That Lucky Touch, Popularity: 85
+Movie Title: Sanshiro Sugata, Popularity: 85
+Movie Title: Gunfight at the OK Corral, Popularity: 84
+Movie Title: King of Comedy, Popularity: 84
+Movie Title: Kelly's Heroes, Popularity: 84
+Movie Title: Big Bad John, Popularity: 84
+Movie Title: Marrying Man, The, Popularity: 84
+Movie Title: Twilight's Last Gleaming, Popularity: 84
+Movie Title: Love & Death, Popularity: 84
+Movie Title: Othello, Popularity: 84
+Movie Title: Surrender, Popularity: 84
+Movie Title: Catamount Killing, The, Popularity: 84
+Movie Title: Crimes of the Heart, Popularity: 84
+Movie Title: Dick Tracy, Popularity: 84
+Movie Title: She Wore a Yellow Ribbon, Popularity: 84
+Movie Title: Arrowsmith, Popularity: 84
+Movie Title: Say Goodbye Maggie Cole, Popularity: 84
+Movie Title: Ruthless People, Popularity: 84
+Movie Title: D-Day, The Sixth of June, Popularity: 84
+Movie Title: My Science Project, Popularity: 84
+Movie Title: Taps, Popularity: 84
+Movie Title: Legend of the Lost, Popularity: 84
+Movie Title: Angel & the Badman, Popularity: 84
+Movie Title: Ape Man, The, Popularity: 83
+Movie Title: Monty Python & the Holy Grail, Popularity: 83
+Movie Title: A Clockwork Orange, Popularity: 83
+Movie Title: Two Women, Popularity: 83
+Movie Title: Rape of the Sabines, The, Popularity: 83
+Movie Title: A New Leaf, Popularity: 83
+Movie Title: Back Door to Heaven, Popularity: 83
+Movie Title: Places in the Heart, Popularity: 83
+Movie Title: Romancing the Stone, Popularity: 83
+Movie Title: Overland Stage Raiders, Popularity: 83
+Movie Title: Woman of Affairs, Popularity: 83
+Movie Title: 2001: A Space Odyssey, Popularity: 83
+Movie Title: Swing It, Sailor!, Popularity: 83
+Movie Title: Getting Straight, Popularity: 83
+Movie Title: Doctor at Sea, Popularity: 83
+Movie Title: Sting, The, Popularity: 83
+Movie Title: El Rublo de las Dos Caras, Popularity: 83
+Movie Title: Dillinger, Popularity: 83
+Movie Title: What's New Pussycat, Popularity: 83
+Movie Title: Alien, Popularity: 83
+Movie Title: Ugetsu Monogatari, Popularity: 82
+Movie Title: Aliens, Popularity: 82
+Movie Title: Valkenvania, Popularity: 82
+Movie Title: Slap Shot, Popularity: 82
+Movie Title: Woman Next Door, The, Popularity: 82
+Movie Title: Butterflies Are Free, Popularity: 82
+Movie Title: Who's Afraid of Virginia Woolf?, Popularity: 82
+Movie Title: Duet for One, Popularity: 82
+Movie Title: Manhattan, Popularity: 82
+Movie Title: Fantasy Man, Popularity: 82
+Movie Title: Formula, The, Popularity: 82
+Movie Title: Burning Poles, Cecil Taylor in Performance, Popularity: 82
+Movie Title: Bonfire of the Vanities, The, Popularity: 82
+Movie Title: Rebel Without a Cause, Popularity: 82
+Movie Title: Meet Millie, Popularity: 82
+Movie Title: Nineteen Hundred, Popularity: 82
+Movie Title: Alice Doesn't Live Here Anymore, Popularity: 82
+Movie Title: Flaming Frontiers, Popularity: 82
+Movie Title: Queen Christina, Popularity: 82
+Movie Title: Deer Hunter, The, Popularity: 82
+Movie Title: Penitentiary III, Popularity: 82
+Movie Title: Heiress, The, Popularity: 81
+Movie Title: Swing Shift, Popularity: 81
+Movie Title: At Play in the Fields of the Lord, Popularity: 81
+Movie Title: Ryan's Daughter, Popularity: 81
+Movie Title: After Hours, Popularity: 81
+Movie Title: Matewan, Popularity: 81
+Movie Title: Hanover Street, Popularity: 81
+Movie Title: Day of the Locust, The, Popularity: 81
+Movie Title: Fanny and Alexander, Popularity: 81
+Movie Title: Tormenta Sobre Arizona, Popularity: 81
+Movie Title: L. A. Story, Popularity: 81
+Movie Title: Persona, Popularity: 81
+Movie Title: Grand Hotel, Popularity: 81
+Movie Title: Contempt, Popularity: 81
+Movie Title: Dersu Uzala, (The Hunter), Popularity: 81
+Movie Title: Play It Again, Sam, Popularity: 81
+Movie Title: National Lampoon's Christmas Vacation, Popularity: 81
+Movie Title: Reflections in a Golden Eye, Popularity: 81
+Movie Title: Monty Python Live at the Hollywood Bowl, Popularity: 81
+Movie Title: Husbands & Wives, Popularity: 80
+Movie Title: Lolita, Popularity: 80
+Movie Title: Cleopatra, Popularity: 80
+Movie Title: Rodeo Girl, Popularity: 80
+Movie Title: Hammersmith Is Out, Popularity: 80
+Movie Title: Cannonball Run, The, Popularity: 80
+Movie Title: A Question of Honor, Popularity: 80
+Movie Title: Check Your Guns, Popularity: 80
+Movie Title: Mr. Arkadin, Popularity: 80
+Movie Title: New Jack City, Popularity: 80
+Movie Title: Goon Show Movie, The, Popularity: 80
+Movie Title: War & Peace, Popularity: 80
+Movie Title: Stripped to Kill II, Live Girls, Popularity: 80
+Movie Title: Statue, The, Popularity: 80
+Movie Title: Bobo, The, Popularity: 80
+Movie Title: Zandalee, Popularity: 80
+Movie Title: Mephisto, Popularity: 80
+Movie Title: Scarlet Street, Popularity: 80
+Movie Title: Angela, Popularity: 80
+Movie Title: A Special Day, Popularity: 80
+Movie Title: Her Alibi, Popularity: 80
+Movie Title: 8 1/2, Popularity: 80
+Movie Title: It Started with a Kiss, Popularity: 80
+Movie Title: Silence, The, Popularity: 79
+Movie Title: Predator 2, Popularity: 79
+Movie Title: A Touch of Class, Popularity: 79
+Movie Title: Texas, Popularity: 79
+Movie Title: Joe Kidd, Popularity: 79
+Movie Title: Lassie Come Home, Popularity: 79
+Movie Title: Face at the Window, The, Popularity: 79
+Movie Title: Bloodsucking Pharaohs in Pittsburgh, Popularity: 79
+Movie Title: Rowlf's Rhapsodies with the Muppets, Popularity: 79
+Movie Title: Monty Python's Flying Circus, Vol 2., Popularity: 79
+Movie Title: Cheerleader Camp, Popularity: 79
+Movie Title: Russians Are Coming, the Russians Are, The, Popularity: 79
+Movie Title: True Stories, Popularity: 79
+Movie Title: Arthur, Popularity: 79
+Movie Title: A Married Man, Popularity: 79
+Movie Title: Defense of the Realm, Popularity: 79
+Movie Title: Siegfried, The Nibelungenlied, Popularity: 79
+Movie Title: Babette's Feast, Popularity: 79
+Movie Title: Crawling Hand, The, Popularity: 79
+Movie Title: Dead Zone, The, Popularity: 79
+Movie Title: Rocky, Popularity: 78
+Movie Title: Delicatessen, Popularity: 78
+Movie Title: Rebecca, Popularity: 78
+Movie Title: Wee Willie Winkie, Popularity: 78
+Movie Title: Mo' Better Blues, Popularity: 78
+Movie Title: Return of the Lash, Popularity: 78
+Movie Title: King of the Pecos, Popularity: 78
+Movie Title: Rain People, The, Popularity: 78
+Movie Title: Lion in Winter, THe, Popularity: 78
+Movie Title: Apache, Popularity: 78
+Movie Title: Get Out Your Handkerchiefs, Popularity: 78
+Movie Title: Bloodsport, Popularity: 78
+Movie Title: Hot to Trot, Popularity: 78
+Movie Title: JFK, Popularity: 78
+Movie Title: Circuitry Man, Popularity: 78
+Movie Title: A Year of the Quiet Sun, Popularity: 78
+Movie Title: Ferry to Hong Kong, Popularity: 77
+Movie Title: True Grit, Popularity: 77
+Movie Title: Criss Cross, Popularity: 77
+Movie Title: Goldfinger, Popularity: 77
+Movie Title: Superman IV: The Quest for Peace, Popularity: 77
+Movie Title: Adventures of Smilin' Jack, The, Popularity: 77
+Movie Title: Salvador, Popularity: 77
+Movie Title: Madonna, Justify My Love, Popularity: 77
+Movie Title: Range Feud, Popularity: 77
+Movie Title: Never on Tuesday, Popularity: 77
+Movie Title: Until They Sail, Popularity: 77
+Movie Title: Pink Panther, The, Popularity: 77
+Movie Title: Dangerous Liaisons, Popularity: 77
+Movie Title: El Guerrero Solitario, Popularity: 77
+Movie Title: Asphalt Jungle, The, Popularity: 77
+Movie Title: Experiment in Terror, Popularity: 77
+Movie Title: Blood on the Sun, Popularity: 76
+Movie Title: Rooster Cogburn, Popularity: 76
+Movie Title: Cyrano de Bergerac, Popularity: 76
+Movie Title: Lodger (Story of the London Fog), Popularity: 76
+Movie Title: Horse Soldiers, The, Popularity: 76
+Movie Title: A Day in October, Popularity: 76
+Movie Title: Salome's Last Dance, Popularity: 76
+Movie Title: Reds, Popularity: 76
+Movie Title: Posse, Popularity: 76
+Movie Title: Stealing Home, Popularity: 76
+Movie Title: Romulus & the Sabines, Popularity: 76
+Movie Title: Black Sunday, Popularity: 76
+Movie Title: Absence of Malice, Popularity: 76
+Movie Title: Marathon, Popularity: 76
+Movie Title: Keeper of the Flame, Popularity: 76
+Movie Title: In Country, Popularity: 76
+Movie Title: A Streetcar Named Desire, Popularity: 75
+Movie Title: Julia, Popularity: 75
+Movie Title: Dodesukaden, Popularity: 75
+Movie Title: Defending Your Life, Popularity: 75
+Movie Title: Roma, Popularity: 75
+Movie Title: RAD, Popularity: 75
+Movie Title: Crash & Burn, Popularity: 75
+Movie Title: Alone in the Dark, Popularity: 75
+Movie Title: Sara Dane, Popularity: 75
+Movie Title: Battle of Midway, The, Popularity: 75
+Movie Title: Burn!, Popularity: 75
+Movie Title: Best Defense, Popularity: 75
+Movie Title: Jamaica Inn, Popularity: 75
+Movie Title: Wild Party, The, Popularity: 75
+Movie Title: Man Who Haunted Himself, The, Popularity: 75
+Movie Title: Pretty in Pink, Popularity: 75
+Movie Title: Buffet Froid, Popularity: 75
+Movie Title: Madonna Live, The Virgin Tour, Popularity: 75
+Movie Title: Appointment with Death, Popularity: 75
+Movie Title: Unsettled Land, Popularity: 75
+Movie Title: Another You, Popularity: 75
+Movie Title: Closely Watched Trains, Popularity: 75
+Movie Title: Sea of Grass, The, Popularity: 75
+Movie Title: Randy Rides Alone, Popularity: 75
+Movie Title: Getting Physical, Popularity: 75
+Movie Title: American Autobahn, Popularity: 75
+Movie Title: Magic Christian, The, Popularity: 75
+Movie Title: Wild Times, Popularity: 75
+Movie Title: Meeting Venus, Popularity: 74
+Movie Title: Raintree County, Popularity: 74
+Movie Title: Best Friends, Popularity: 74
+Movie Title: Sabotage, Popularity: 74
+Movie Title: Kriemhild's Revenge, The Nibelungenlied, Popularity: 74
+Movie Title: Kagemusha, Popularity: 74
+Movie Title: Act of Piracy, Popularity: 74
+Movie Title: Camille, Popularity: 74
+Movie Title: Ciao Italia, Madonna Live from Italy, Popularity: 74
+Movie Title: Under Capricorn, Popularity: 74
+Movie Title: Hell Comes to Frogtown, Popularity: 74
+Movie Title: American Anthem, Popularity: 74
+Movie Title: Fifth Floor, The, Popularity: 74
+Movie Title: Fighting Kentuckian, The, Popularity: 74
+Movie Title: Why Me?, Popularity: 74
+Movie Title: Quiet Man, The, Popularity: 74
+Movie Title: Mystic Pizza, Popularity: 74
+Movie Title: Six Weeks, Popularity: 73
+Movie Title: Clan of the Cave Bear, The, Popularity: 73
+Movie Title: Reversal of Fortune, Popularity: 73
+Movie Title: Neath Arizona Skies, Popularity: 73
+Movie Title: Bang the Drum Slowly, Popularity: 73
+Movie Title: Boom Town, Popularity: 73
+Movie Title: Border Street, Popularity: 73
+Movie Title: Unfaithfully Yours, Popularity: 73
+Movie Title: Law of Desire, Popularity: 73
+Movie Title: Joyless Street, Popularity: 73
+Movie Title: Yesterday, Today & Tomorrow, Popularity: 73
+Movie Title: Mc Q, Popularity: 73
+Movie Title: Planes, Trains & Automobiles, Popularity: 73
+Movie Title: Frontier Horizon, Popularity: 73
+Movie Title: Ransom, Popularity: 73
+Movie Title: Single Standard, The, Popularity: 73
+Movie Title: Black Rain, Popularity: 73
+Movie Title: State of Things, The, Popularity: 73
+Movie Title: Gator Bait II, Popularity: 73
+Movie Title: Chisum, Popularity: 72
+Movie Title: Beat Street, Popularity: 72
+Movie Title: Three Godfathers, Popularity: 72
+Movie Title: Novice, The, Popularity: 72
+Movie Title: Nightbreed, Popularity: 72
+Movie Title: Sands of Iwo Jima, Popularity: 72
+Movie Title: Bandits of Dark Canyon, Popularity: 72
+Movie Title: Fire, Ice & Dynamite, Popularity: 72
+Movie Title: In a Shallow Grave, Popularity: 72
+Movie Title: Great McGonagall, The, Popularity: 72
+Movie Title: Indigo Autumn & Lilac Dream, Popularity: 72
+Movie Title: Count of Old Town, The, Popularity: 72
+Movie Title: Hearts of Darkness, A Filmmaker's Apocalypse, Popularity: 72
+Movie Title: Mysterious Lady, The, Popularity: 72
+Movie Title: Z, Popularity: 72
+Movie Title: Dirty Harry, Popularity: 72
+Movie Title: Conformist, The, Popularity: 72
+Movie Title: Driver's Seat, The, Popularity: 72
+Movie Title: Le Dernier Combat, Popularity: 72
+Movie Title: Hear My Song, Popularity: 72
+Movie Title: Flesh & the Devil, The, Popularity: 72
+Movie Title: Stage Fright, Popularity: 72
+Movie Title: Allnighter, The, Popularity: 71
+Movie Title: Dear Brigitte, Popularity: 71
+Movie Title: Programmed to Kill, Popularity: 71
+Movie Title: Assault, The, Popularity: 71
+Movie Title: A Dry White Season, Popularity: 71
+Movie Title: Vera Cruz, Popularity: 71
+Movie Title: Baja Oklahoma, Popularity: 71
+Movie Title: Accused, The, Popularity: 71
+Movie Title: Year My Voice Broke, The, Popularity: 71
+Movie Title: Dragonfight, Popularity: 71
+Movie Title: Four Horsemen of the Apocalypse, The, Popularity: 71
+Movie Title: Betty Blue, Popularity: 71
+Movie Title: Mon Oncle D'Amerique, Popularity: 71
+Movie Title: Prettykill, Popularity: 71
+Movie Title: A Chorus Line, The Movie, Popularity: 71
+Movie Title: Riff Raff, Popularity: 71
+Movie Title: Wings of Desire, Popularity: 71
+Movie Title: Mysterious Mr. Wong, Popularity: 71
+Movie Title: Killjoy, Popularity: 71
+Movie Title: Mogambo, Popularity: 71
+Movie Title: Dragonard, Popularity: 71
+Movie Title: Shoot Loud, Louder, I Don't Understand!, Popularity: 70
+Movie Title: Front, The, Popularity: 70
+Movie Title: Il Bidone, Popularity: 70
+Movie Title: To Live & Die in L. A., Popularity: 70
+Movie Title: Flight to Fury, Popularity: 70
+Movie Title: Hot Spot, Popularity: 70
+Movie Title: American Film Institute, Alfred Hitchcock, Popularity: 70
+Movie Title: Duke, The Films of John Wayne, Popularity: 70
+Movie Title: Caddyshack, Popularity: 70
+Movie Title: Sex, Lies, and Videotape, Popularity: 70
+Movie Title: Dr Alien, Popularity: 70
+Movie Title: Guys & Dolls, Popularity: 70
+Movie Title: Creepshow, Popularity: 70
+Movie Title: Hot Line, The, Popularity: 70
+Movie Title: Beartooth, Popularity: 70
+Movie Title: Bride Is Much Too Beautiful, The, Popularity: 70
+Movie Title: A Matter of Time, Popularity: 70
+Movie Title: Eyes of the Amaryllis, The, Popularity: 70
+Movie Title: Wild Orchids, Popularity: 70
+Movie Title: Presumed Innocent, Popularity: 69
+Movie Title: Double Edge, Popularity: 69
+Movie Title: Forgotten, The, Popularity: 69
+Movie Title: Blame It on the Bellboy, Popularity: 69
+Movie Title: Devils, The, Popularity: 69
+Movie Title: Lethal Weapon 2, Popularity: 69
+Movie Title: Comic Relief, Popularity: 69
+Movie Title: Disorderlies, Popularity: 69
+Movie Title: Bad Seed, The, Popularity: 69
+Movie Title: Heat, Popularity: 69
+Movie Title: Stromboli, Popularity: 69
+Movie Title: To Catch a Thief, Popularity: 69
+Movie Title: Fear, Popularity: 69
+Movie Title: Henry, Portrait of a Serial Killer, Popularity: 69
+Movie Title: Shampoo, Popularity: 69
+Movie Title: Johnny Tiger, Popularity: 69
+Movie Title: Eiger Sanction, The, Popularity: 69
+Movie Title: Christopher Columbus, Popularity: 69
+Movie Title: Menace on the Mountain, Popularity: 69
+Movie Title: Honkytonk Man, Popularity: 69
+Movie Title: Ladyhawke, Popularity: 68
+Movie Title: Annie Hall, Popularity: 68
+Movie Title: Hunting, Popularity: 68
+Movie Title: Bataan, Popularity: 68
+Movie Title: Train, The, Popularity: 68
+Movie Title: Polyester, Popularity: 68
+Movie Title: Scum, Popularity: 68
+Movie Title: Good, the Bad & the Ugly, The, Popularity: 68
+Movie Title: Law & Jake Wade, The, Popularity: 68
+Movie Title: Wolf at the Door, The, Popularity: 68
+Movie Title: Tie Me Up! Tie Me Down!, Popularity: 68
+Movie Title: Jewel of the Nile, The, Popularity: 68
+Movie Title: Octopussy, Popularity: 68
+Movie Title: Big Jake, Popularity: 68
+Movie Title: Man with Two Brains, The, Popularity: 68
+Movie Title: High Heels, Popularity: 68
+Movie Title: Hush, Hush, Sweet Charlotte, Popularity: 68
+Movie Title: Tucker: The Man & His Dream, Popularity: 68
+Movie Title: Daffy Duck's Quackbusters, Popularity: 68
+Movie Title: Once Around, Popularity: 68
+Movie Title: Glass Menagerie, The, Popularity: 68
+Movie Title: Trash, Popularity: 68
+Movie Title: Hurricane Express, The, Popularity: 68
+Movie Title: An Evening with Robin Williams, Popularity: 68
+Movie Title: Hair, Popularity: 67
+Movie Title: Go Tell the Spartans, Popularity: 67
+Movie Title: Experts, The, Popularity: 67
+Movie Title: Dangerous When Wet, Popularity: 67
+Movie Title: Lost Boys, The, Popularity: 67
+Movie Title: Hang 'em High, Popularity: 67
+Movie Title: Man Who Loved Women, The, Popularity: 67
+Movie Title: Diary of a Hitman, Popularity: 67
+Movie Title: 48 Hrs., Popularity: 67
+Movie Title: Spartacus, Popularity: 67
+Movie Title: Mata Hari, Popularity: 67
+Movie Title: Cactus Flower, Popularity: 67
+Movie Title: Tartuffe, Popularity: 67
+Movie Title: Jay Leno: The American Dream, Popularity: 67
+Movie Title: A Cry in the Dark, Popularity: 67
+Movie Title: On a Clear Day You Can See Forever, Popularity: 67
+Movie Title: Bedazzled, Popularity: 67
+Movie Title: Matchmaker, The, Popularity: 67
+Movie Title: Last Metro, The, Popularity: 66
+Movie Title: Men Don't Leave, Popularity: 66
+Movie Title: Dogfight, Popularity: 66
+Movie Title: Pepi Luci Bom, Popularity: 66
+Movie Title: White Hunter, Black Heart, Popularity: 66
+Movie Title: Law of the Lash, Popularity: 66
+Movie Title: Blackboard Jungle, The, Popularity: 66
+Movie Title: Number Seventeen, Popularity: 66
+Movie Title: Without Love, Popularity: 66
+Movie Title: Prize, The, Popularity: 66
+Movie Title: Inspiration, Popularity: 66
+Movie Title: Devil's Wanton, The, Popularity: 66
+Movie Title: Firehouse, Popularity: 66
+Movie Title: Dreams Lost, Dreams Found, Popularity: 66
+Movie Title: Crisis, Popularity: 66
+Movie Title: Crocodile Dundee, Popularity: 66
+Movie Title: Ambassador Bill, Popularity: 66
+Movie Title: Steel Magnolias, Popularity: 66
+Movie Title: Roxanne, Popularity: 66
+Movie Title: Baby Face, Popularity: 66
+Movie Title: Killer's Kiss, Popularity: 66
+Movie Title: Fabulous Baker Boys, The, Popularity: 66
+Movie Title: About Last Night, Popularity: 66
+Movie Title: Going Places, Popularity: 66
+Movie Title: On Her Majesty's Secret Service, Popularity: 66
+Movie Title: Women, The, Popularity: 66
+Movie Title: Secrets of Women, Popularity: 66
+Movie Title: In Harm's Way, Popularity: 66
+Movie Title: Life & Times of Judge Roy Bean, The, Popularity: 65
+Movie Title: National Enquirer, The Untold Story, Popularity: 65
+Movie Title: Bad Sleep Well, The, Popularity: 65
+Movie Title: Going Ape, Popularity: 65
+Movie Title: Tomorrow Is Forever, Popularity: 65
+Movie Title: Blue Iguana, The, Popularity: 65
+Movie Title: Streets of Fire, Popularity: 65
+Movie Title: Manxman, The, Popularity: 65
+Movie Title: Willy Wonka & the Chocolate Factory, Popularity: 65
+Movie Title: All the Right Moves, Popularity: 65
+Movie Title: How to Marry a Millionaire, Popularity: 65
+Movie Title: Loulou, Popularity: 65
+Movie Title: Mackintosh Man, The, Popularity: 65
+Movie Title: To Joy, Popularity: 65
+Movie Title: Devil's Disciple, The, Popularity: 65
+Movie Title: Back to the Future II, Popularity: 65
+Movie Title: Women on the Verge of a Nervous Breakdown, Popularity: 65
+Movie Title: Fast Times at Ridgemont High, Popularity: 65
+Movie Title: Howie Mandel's North American Watusi Tour, Popularity: 65
+Movie Title: Firefox, Popularity: 64
+Movie Title: Coma, Popularity: 64
+Movie Title: Apprenticeship of Duddy Kravitz, The, Popularity: 64
+Movie Title: Rio Grande, Popularity: 64
+Movie Title: Grease II, Popularity: 64
+Movie Title: Norma Rae, Popularity: 64
+Movie Title: Trip, The, Popularity: 64
+Movie Title: Susan Lennox, Her Fall & Rise, Popularity: 64
+Movie Title: One Woman or Two, Popularity: 64
+Movie Title: Brannigan, Popularity: 64
+Movie Title: Doc Hollywood, Popularity: 64
+Movie Title: Blind Man's Bluff, Popularity: 64
+Movie Title: Sophie's Choice, Popularity: 64
+Movie Title: Through a Glass Darkly, Popularity: 64
+Movie Title: Major League, Popularity: 64
+Movie Title: Sheltering Sky, The, Popularity: 64
+Movie Title: Ugly American, The, Popularity: 63
+Movie Title: Gosta Berling's Saga, Popularity: 63
+Movie Title: Juggernaut, Popularity: 63
+Movie Title: Running Mates, Popularity: 63
+Movie Title: Next of Kin, Popularity: 63
+Movie Title: Is Paris Burning?, Popularity: 63
+Movie Title: Dreamscape, Popularity: 63
+Movie Title: My Blue Heaven, Popularity: 63
+Movie Title: I Confess, Popularity: 63
+Movie Title: Madonna, Like a Virgin, Popularity: 63
+Movie Title: Postcards from the Edge, Popularity: 63
+Movie Title: Monty Python's Flying Circus, Vol 3., Popularity: 63
+Movie Title: Carlton-Browne of the F.O., Popularity: 63
+Movie Title: Boy in Blue, The, Popularity: 63
+Movie Title: Last Picture Show, The, Popularity: 62
+Movie Title: Live & Let Die, Popularity: 62
+Movie Title: Trip to Bountiful, The, Popularity: 62
+Movie Title: Virus, Popularity: 62
+Movie Title: Arrogant, The, Popularity: 62
+Movie Title: Tentacles, Popularity: 62
+Movie Title: Everybody's All American, Popularity: 62
+Movie Title: Smith!, Popularity: 62
+Movie Title: Goalie's Anxiety at the Penalty Kick, The, Popularity: 62
+Movie Title: John Cleese on How to Irritate People, Popularity: 62
+Movie Title: Rumor Mill, The, Popularity: 62
+Movie Title: Start the Revolution Without Me, Popularity: 62
+Movie Title: Fall of the Roman Empire, The, Popularity: 62
+Movie Title: Seventh Seal, The, Popularity: 62
+Movie Title: Donovan's Reef, Popularity: 62
+Movie Title: Cat Ballou, Popularity: 62
+Movie Title: Mama's Dirty Girls, Popularity: 62
+Movie Title: Last Ride of the Dalton Gang, The, Popularity: 62
+Movie Title: Adam's Rib, Popularity: 62
+Movie Title: Outlaw Country, Popularity: 62
+Movie Title: Ffolkes, Popularity: 62
+Movie Title: Whose Life Is It, Anyway?, Popularity: 62
+Movie Title: Audrey Rose, Popularity: 62
+Movie Title: Looker, Popularity: 62
+Movie Title: Into the Night, Popularity: 62
+Movie Title: Inauguration of the Pleasure Dome, Popularity: 62
+Movie Title: Peggy Sue Got Married, Popularity: 62
+Movie Title: Romance, Popularity: 62
+Movie Title: A Little Night Music, Popularity: 61
+Movie Title: Crazy People, Popularity: 61
+Movie Title: Tender Mercies, Popularity: 61
+Movie Title: A Fistful of Dollars, Popularity: 61
+Movie Title: Wild Frontier, The, Popularity: 61
+Movie Title: One Crazy Summer, Popularity: 61
+Movie Title: Hawk of Powder River, Popularity: 61
+Movie Title: Foreign Correspondent, Popularity: 61
+Movie Title: Fatal Attraction, Popularity: 61
+Movie Title: Storm, Popularity: 61
+Movie Title: Heartbreak Ridge, Popularity: 61
+Movie Title: Freaks, Popularity: 61
+Movie Title: Giant, Popularity: 61
+Movie Title: Gremlins 2: The New Batch, Popularity: 61
+Movie Title: Flying Tigers, Popularity: 61
+Movie Title: Private Benjamin, Popularity: 61
+Movie Title: Back in the U.S.S.R., Popularity: 61
+Movie Title: Death Becomes Her, Popularity: 61
+Movie Title: Falcon & the Snowman, The, Popularity: 61
+Movie Title: Only Way Home, The, Popularity: 60
+Movie Title: Alien: resurrection, Popularity: 60
+Movie Title: A Nous la Liberte, Popularity: 60
+Movie Title: Ten, Popularity: 60
+Movie Title: Crimson Pirate, The, Popularity: 60
+Movie Title: Funny about Love, Popularity: 60
+Movie Title: Secret Ceremony, Popularity: 60
+Movie Title: Throne of Blood, Popularity: 60
+Movie Title: Yojimbo, Popularity: 60
+Movie Title: Beguiled, The, Popularity: 60
+Movie Title: Cancel My Reservation, Popularity: 60
+Movie Title: Gary Numan - Berzerker, Popularity: 60
+Movie Title: Clara's Heart, Popularity: 60
+Movie Title: After the Fox, Popularity: 60
+Movie Title: Alfred Hitchcock Presents, Sorcerer's Apprentice, Popularity: 60
+Movie Title: Necessary Roughness, Popularity: 60
+Movie Title: Children's Hour, The, Popularity: 60
+Movie Title: A Child Is Waiting, Popularity: 60
+Movie Title: Ladies of the Chorus, Popularity: 60
+Movie Title: Doors, The, Popularity: 60
+Movie Title: March or Die, Popularity: 59
+Movie Title: Reap the Wild Wind, Popularity: 59
+Movie Title: After School, Popularity: 59
+Movie Title: Conversation, The, Popularity: 59
+Movie Title: Sleeper, Popularity: 59
+Movie Title: Sound of Music, The, Popularity: 59
+Movie Title: Rocky Horror Picture Show, The, Popularity: 59
+Movie Title: Gung Ho, Popularity: 59
+Movie Title: Cabaret, Popularity: 59
+Movie Title: Born to Ride, Popularity: 59
+Movie Title: Those Daring Young Men in Their Jaunty, Popularity: 59
+Movie Title: J-Men Forever, Popularity: 59
+Movie Title: Rashomon, Popularity: 59
+Movie Title: Alien Three, Popularity: 59
+Movie Title: World According to Garp, The, Popularity: 59
+Movie Title: Police Academy 5: Assignment Miami Beach, Popularity: 59
+Movie Title: Witness, Popularity: 59
+Movie Title: Seizure, Popularity: 59
+Movie Title: From the Life of the Marionettes, Popularity: 58
+Movie Title: Cowboys, The, Popularity: 58
+Movie Title: Desperate Hours, Popularity: 58
+Movie Title: Memoirs of an Invisible Man, Popularity: 58
+Movie Title: Diamond Trap, The, Popularity: 58
+Movie Title: John Wayne Four Pack, Popularity: 58
+Movie Title: Smiles of a Summer Night, Popularity: 58
+Movie Title: Pope of Greenwich Village, Popularity: 58
+Movie Title: Teen Wolf, Popularity: 58
+Movie Title: Prisoner of Honor., Popularity: 58
+Movie Title: Rich & Strange, Popularity: 57
+Movie Title: High Plains Drifter, Popularity: 57
+Movie Title: Lust for Gold, Popularity: 57
+Movie Title: Heartburn, Popularity: 57
+Movie Title: Where Eagles Dare, Popularity: 57
+Movie Title: Until the End of the World, Popularity: 57
+Movie Title: Coogan's Bluff, Popularity: 57
+Movie Title: A Month in the Country, Popularity: 57
+Movie Title: Harry & Son, Popularity: 57
+Movie Title: Dear America, Letters Home from Vietnam, Popularity: 57
+Movie Title: Gilda, Popularity: 57
+Movie Title: Painted Veil, The, Popularity: 57
+Movie Title: Lady in Question, Popularity: 57
+Movie Title: Cobra, Popularity: 57
+Movie Title: Made in Heaven, Popularity: 57
+Movie Title: Brink of Life, Popularity: 57
+Movie Title: Bronco Billy, Popularity: 57
+Movie Title: Voyage in Italy, Popularity: 57
+Movie Title: Separate but Equal, Popularity: 56
+Movie Title: Accidental Tourist, The, Popularity: 56
+Movie Title: Cannibal Women in the Avocado Jungle of Death, Popularity: 56
+Movie Title: Psycho, Popularity: 56
+Movie Title: Outsiders, The, Popularity: 56
+Movie Title: Courage, Popularity: 56
+Movie Title: Mummy's Revenge, The, Popularity: 56
+Movie Title: Long John Silver, Popularity: 56
+Movie Title: Somebody up There Likes Me, Popularity: 56
+Movie Title: Best of Eddie Murphy, Saturday Night Live, The, Popularity: 56
+Movie Title: Tightrope, Popularity: 55
+Movie Title: Scarlet Letter, The, Popularity: 55
+Movie Title: Dracula's Widow, Popularity: 55
+Movie Title: Secret Admirer, Popularity: 55
+Movie Title: Cloak & Dagger, Popularity: 55
+Movie Title: Chinatown, Popularity: 55
+Movie Title: Don Juan, Popularity: 55
+Movie Title: Not Without My Daughter, Popularity: 55
+Movie Title: Pocket Money, Popularity: 55
+Movie Title: Deceived, Popularity: 55
+Movie Title: Man of La Mancha, Popularity: 55
+Movie Title: Two Nights with Cleo, Popularity: 54
+Movie Title: White Lightning, Popularity: 54
+Movie Title: Another Forty-Eight Hours, Popularity: 54
+Movie Title: Mummy's Hand, The, Popularity: 54
+Movie Title: Ash Wednesday, Popularity: 54
+Movie Title: Green Glove, Popularity: 54
+Movie Title: Up the Creek, Popularity: 54
+Movie Title: Local Hero, Popularity: 54
+Movie Title: A Coeur Joie, (Head Over Heels), Popularity: 54
+Movie Title: Les Comperes, Popularity: 54
+Movie Title: Father of the Bride, Popularity: 54
+Movie Title: Whoopee Boys, The, Popularity: 54
+Movie Title: Island of Dr. Moreau, The, Popularity: 54
+Movie Title: Black Orchid, The, Popularity: 54
+Movie Title: Black Widow, Popularity: 54
+Movie Title: Deadly Trackers, Popularity: 54
+Movie Title: Rawhide, Premiere Episode, Popularity: 54
+Movie Title: Flame of Barbary Coast, Popularity: 54
+Movie Title: America's Music, Blues, Popularity: 54
+Movie Title: Madonna, Truth or Dare, Popularity: 54
+Movie Title: Between Friends, Popularity: 54
+Movie Title: Mosquito Coast, The, Popularity: 54
+Movie Title: Paris Blues, Popularity: 54
+Movie Title: Looking for Mr. Goodbar, Popularity: 54
+Movie Title: On Wings of Eagles, Popularity: 53
+Movie Title: Complete Dirty Harry, Magnum Force, The, Popularity: 53
+Movie Title: Miles from Home, Popularity: 53
+Movie Title: To Die Standing, Popularity: 53
+Movie Title: Protocol, Popularity: 53
+Movie Title: Rainbow, The, Popularity: 53
+Movie Title: A New Life, Popularity: 53
+Movie Title: Honeymoon in Vegas, Popularity: 53
+Movie Title: See You in the Morning, Popularity: 53
+Movie Title: High Spirits, Popularity: 53
+Movie Title: Allegheny Uprising, Popularity: 53
+Movie Title: Yol, Popularity: 53
+Movie Title: Brass Target, Popularity: 53
+Movie Title: Throwback, The, Popularity: 53
+Movie Title: Paris Trout, Popularity: 53
+Movie Title: Father's Little Dividend, Popularity: 52
+Movie Title: Barbarian & the Geisha, The, Popularity: 52
+Movie Title: Heller in Pink Tights, Popularity: 52
+Movie Title: Dark Command, Popularity: 52
+Movie Title: Mystery of the Hooded Horsemen, Popularity: 52
+Movie Title: Split Decisions, Popularity: 52
+Movie Title: Between Two Women, Popularity: 52
+Movie Title: Blood Feud, Popularity: 52
+Movie Title: Survivors, The, Popularity: 52
+Movie Title: Nuts, Popularity: 52
+Movie Title: Slightly Scarlet, Popularity: 52
+Movie Title: Dial M for Murder, Popularity: 52
+Movie Title: Silkwood, Popularity: 52
+Movie Title: Nobody's Fool, Popularity: 52
+Movie Title: Branford Marsalis, Steep, Popularity: 52
+Movie Title: Eddie Murphy Raw, Popularity: 51
+Movie Title: Beyond the Limit, Popularity: 51
+Movie Title: Killing, The, Popularity: 51
+Movie Title: We're No Angels, Popularity: 51
+Movie Title: Range Feud, The, Popularity: 51
+Movie Title: A Patch of Blue, Popularity: 51
+Movie Title: Flight of the Intruder, Popularity: 51
+Movie Title: Desk Set, Popularity: 51
+Movie Title: Northwest Passage, Popularity: 51
+Movie Title: A Shot in the Dark, Popularity: 51
+Movie Title: Brood, The, Popularity: 51
+Movie Title: Lindbergh Kidnapping Case, The, Popularity: 51
+Movie Title: Return of Martin Guerre, The, Popularity: 51
+Movie Title: Shirley Valentine, Popularity: 51
+Movie Title: Lovesick, Popularity: 51
+Movie Title: Lean on Me, Popularity: 51
+Movie Title: Bodycount, Popularity: 51
+Movie Title: Breathless, Popularity: 51
+Movie Title: Jack Benny Show, Popularity: 51
+Movie Title: Murder, Popularity: 50
+Movie Title: Night Tide, Popularity: 50
+Movie Title: Wild Bunch, The, Popularity: 50
+Movie Title: Tequila Sunrise, Popularity: 50
+Movie Title: Racing with the Moon, Popularity: 50
+Movie Title: Hombre, Popularity: 50
+Movie Title: Rhapsody in August, Popularity: 50
+Movie Title: Julius Caesar, Popularity: 50
+Movie Title: Torpedo Run, Popularity: 50
+Movie Title: Come Back, Little Sheba, Popularity: 50
+Movie Title: Final Analysis, Popularity: 50
+Movie Title: Amarcord, Popularity: 50
+Movie Title: Catch Twenty-Two, Popularity: 50
+Movie Title: Secret Agent, Popularity: 50
+Movie Title: Guess Who's Coming to Dinner, Popularity: 50
+Movie Title: Soggy Bottom U. S. A., Popularity: 50
+Movie Title: Desert Trail, The, Popularity: 50
+Movie Title: Surf Nazis Must Die, Popularity: 50
+Movie Title: Tin Men, Popularity: 50
+Movie Title: Big Bust Out, The, Popularity: 50
+Movie Title: In Too Deep, Popularity: 50
+Movie Title: PK. & the Kid., Popularity: 49
+Movie Title: Spies, Popularity: 49
+Movie Title: Autumn Sonata, Popularity: 49
+Movie Title: Sophia Loren, Her Own Story, Popularity: 49
+Movie Title: Down by Law, Popularity: 49
+Movie Title: Vagabond, Popularity: 49
+Movie Title: Cool Hand Luke, Popularity: 49
+Movie Title: Metropolis, Popularity: 49
+Movie Title: State of Grace, Popularity: 49
+Movie Title: Vampire's Kiss, Popularity: 49
+Movie Title: Triumph of the Spirit, Popularity: 49
+Movie Title: Seven Minutes in Heaven, Popularity: 49
+Movie Title: Quackser Fortune Has a Cousin in the Bronx, Popularity: 49
+Movie Title: Seems Like Old Times, Popularity: 49
+Movie Title: Affair in Trinidad, Popularity: 49
+Movie Title: Hard To Kill, Popularity: 49
+Movie Title: A Man & a Woman: Twenty Years Later, Popularity: 49
+Movie Title: A Woman's Face, Popularity: 49
+Movie Title: Industrial Symphony, The Dream of the Broken-Hearted, Popularity: 49
+Movie Title: What Comes Around, Popularity: 49
+Movie Title: John Wayne Collection, Red River, The, Popularity: 49
+Movie Title: Rookie, THe, Popularity: 48
+Movie Title: Misery, Popularity: 48
+Movie Title: Duel, Popularity: 48
+Movie Title: Loves of Carmen, The, Popularity: 48
+Movie Title: Erasure, Live Wild!, Popularity: 48
+Movie Title: Siesta, Popularity: 48
+Movie Title: Track Twenty-Nine, Popularity: 48
+Movie Title: Big Bands, The, Popularity: 48
+Movie Title: One Hundred Rifles, Popularity: 48
+Movie Title: Lucky Texan, Popularity: 48
+Movie Title: White of the Eye, Popularity: 48
+Movie Title: Network, Popularity: 48
+Movie Title: Fury, Popularity: 48
+Movie Title: Pat & Mike, Popularity: 48
+Movie Title: Buddy System, The, Popularity: 48
+Movie Title: A Lesson in Love, Popularity: 48
+Movie Title: Water, Popularity: 47
+Movie Title: Trick or Treat, Popularity: 47
+Movie Title: Chuka, Popularity: 47
+Movie Title: Play Misty for Me, Popularity: 47
+Movie Title: Young Love: Lemon Popsicle Seven, Popularity: 47
+Movie Title: Young Einstein, Popularity: 47
+Movie Title: Santee, Popularity: 47
+Movie Title: Attack of the Killer Tomatoes, Popularity: 47
+Movie Title: Paths of Glory, Popularity: 47
+Movie Title: Nadine, Popularity: 47
+Movie Title: Meridian, Popularity: 47
+Movie Title: Straight to Hell, Popularity: 47
+Movie Title: Alrededor de Medianoche, Popularity: 47
+Movie Title: Instant Karma, Popularity: 47
+Movie Title: A Man & a Woman, Popularity: 46
+Movie Title: Foul Play, Popularity: 46
+Movie Title: Sun Shines Bright, The, Popularity: 46
+Movie Title: Yentl, Popularity: 46
+Movie Title: Paint Your Wagon, Popularity: 46
+Movie Title: Last Hurrah, The, Popularity: 46
+Movie Title: What's New Pussycat?, Popularity: 46
+Movie Title: Fawlty Towers, Gourmet Night, Waldorf Salad & The Kipper & the Corpse, Popularity: 46
+Movie Title: How the West Was Won, Popularity: 45
+Movie Title: Ticket of Leave Man, The, Popularity: 45
+Movie Title: Marbella, Popularity: 45
+Movie Title: Full Metal Jacket, Popularity: 45
+Movie Title: Easy Virtue, Popularity: 45
+Movie Title: Macbeth, Popularity: 45
+Movie Title: Conan the Barbarian, Popularity: 45
+Movie Title: Competition, The, Popularity: 45
+Movie Title: Pleasure Palace, Popularity: 45
+Movie Title: Inside Man, The, Popularity: 45
+Movie Title: Spider's Stratagem, Popularity: 45
+Movie Title: Instant Justice, Popularity: 45
+Movie Title: Thirty Seconds over Tokyo, Popularity: 45
+Movie Title: Under the Sun of Satan, Popularity: 45
+Movie Title: Maurice, Popularity: 45
+Movie Title: Pale Rider, Popularity: 45
+Movie Title: All the President's Men, Popularity: 45
+Movie Title: Cocoon, Popularity: 45
+Movie Title: Back to the Beach, Popularity: 45
+Movie Title: Case of the Mukkinese Battle Horn, The, Popularity: 45
+Movie Title: House of the Rising Sun, Popularity: 45
+Movie Title: A View to a Kill, Popularity: 44
+Movie Title: Rebel Rousers, Popularity: 44
+Movie Title: Hot Pursuit, Popularity: 44
+Movie Title: Dawn Rider, The, Popularity: 44
+Movie Title: Spencer Tracy Legacy, The, Popularity: 44
+Movie Title: Hand, The, Popularity: 44
+Movie Title: Cimarron, Popularity: 44
+Movie Title: Darling, Popularity: 44
+Movie Title: And Now for Something Completely Different, Popularity: 44
+Movie Title: Encounters, Popularity: 44
+Movie Title: Cool World, Popularity: 44
+Movie Title: Joe Piscopo Video, The, Popularity: 44
+Movie Title: Star Wars, Popularity: 44
+Movie Title: Burglar, Popularity: 44
+Movie Title: Doin' Time on Planet Earth, Popularity: 44
+Movie Title: Jane Eyre, Popularity: 44
+Movie Title: Wings, Popularity: 44
+Movie Title: Pretty Woman, Popularity: 43
+Movie Title: West to Glory, Popularity: 43
+Movie Title: China Syndrome, The, Popularity: 43
+Movie Title: Border Feud, Popularity: 43
+Movie Title: She-Devil, Popularity: 43
+Movie Title: Power, Popularity: 43
+Movie Title: Blood & Guns, Popularity: 43
+Movie Title: Young & Innocent, Popularity: 43
+Movie Title: Night Train to Katmandu, THe, Popularity: 43
+Movie Title: Courtship of Eddie's Father, The, Popularity: 43
+Movie Title: Jet Pilot, Popularity: 43
+Movie Title: Hustler, The, Popularity: 43
+Movie Title: Cookie, Popularity: 43
+Movie Title: Legend, Popularity: 42
+Movie Title: Garden of the Finzi-Continis, The, Popularity: 42
+Movie Title: Permanent Record, Popularity: 42
+Movie Title: Hideaways, The, Popularity: 42
+Movie Title: Still of the Night, Popularity: 42
+Movie Title: Center of the Web, Popularity: 42
+Movie Title: Harvey, Popularity: 42
+Movie Title: Wild Strawberries, Popularity: 42
+Movie Title: Good Father, The, Popularity: 42
+Movie Title: Notorious, Popularity: 42
+Movie Title: Souvenir, Popularity: 42
+Movie Title: Adventures of Sherlock Holmes' Smarter, Popularity: 42
+Movie Title: World's Greatest Lover, The, Popularity: 42
+Movie Title: Burbs, The, Popularity: 42
+Movie Title: A Guy Named Joe, Popularity: 42
+Movie Title: Welcome Home, Roxy Carmichael, Popularity: 41
+Movie Title: Sicilian, The, Popularity: 41
+Movie Title: Desperately Seeking Susan, Popularity: 41
+Movie Title: Hard Choices, Popularity: 41
+Movie Title: Nightmare on Elm Street, Pt. 5, The Dream Child, Popularity: 41
+Movie Title: There's a Girl in My Soup, Popularity: 41
+Movie Title: Hollywood's Greatest War Movies, Popularity: 41
+Movie Title: Critical Condition, Popularity: 41
+Movie Title: Innerspace, Popularity: 41
+Movie Title: Mississippi Burning, Popularity: 41
+Movie Title: Kissing Place, The, Popularity: 41
+Movie Title: Kandyland, Popularity: 41
+Movie Title: Basic Instinct, Popularity: 41
+Movie Title: Kings of the Road (In the Course of Time), Popularity: 41
+Movie Title: Castaway, Popularity: 41
+Movie Title: Kitchen Toto, THe, Popularity: 41
+Movie Title: Beverly Hills Cop, Popularity: 41
+Movie Title: Man with the Golden Gun, The, Popularity: 41
+Movie Title: Angelic Conversation, The, Popularity: 41
+Movie Title: Stir Crazy, Popularity: 40
+Movie Title: Gold of Naples, The, Popularity: 40
+Movie Title: Slumber Party Massacre III, Popularity: 40
+Movie Title: Red Sonja, Popularity: 40
+Movie Title: I Love All of You (Je Vous Aime), Popularity: 40
+Movie Title: Persuaders, The Overture, The, Popularity: 40
+Movie Title: Wrong Box, The, Popularity: 40
+Movie Title: Shadows of the West, Popularity: 40
+Movie Title: Last of the Red Hot Lovers, Popularity: 40
+Movie Title: Once upon a Wheel, Popularity: 40
+Movie Title: Ninotchka, Popularity: 40
+Movie Title: Quick & The Dead, The, Popularity: 40
+Movie Title: Miami Cops, Popularity: 40
+Movie Title: Idiot, The, Popularity: 40
+Movie Title: Mother Lode, Popularity: 40
+Movie Title: International Velvet, Popularity: 40
+Movie Title: Paramount Comedy Theater: Well-Developed, Popularity: 40
+Movie Title: Maximum Overdrive, Popularity: 40
+Movie Title: Man Who Loved Cat Dancing, The, Popularity: 40
+Movie Title: Official Story, The, Popularity: 39
+Movie Title: Last of Sheila, The, Popularity: 39
+Movie Title: Tom Jones, Popularity: 39
+Movie Title: Rome Adventure, Popularity: 39
+Movie Title: Fellow Traveller, Popularity: 39
+Movie Title: Victory, Popularity: 39
+Movie Title: Legal Eagles, Popularity: 39
+Movie Title: Ms. Don Juan, Popularity: 39
+Movie Title: Island of Dr. Moreau, The, Popularity: 39
+Movie Title: Monster in the Closet, Popularity: 39
+Movie Title: American Graffiti, Popularity: 39
+Movie Title: Judgment at Nuremberg, Popularity: 39
+Movie Title: Hamlet, Popularity: 39
+Movie Title: Rope, Popularity: 39
+Movie Title: Maitresse, Popularity: 39
+Movie Title: Christopher Columbus: The Discovery, Popularity: 39
+Movie Title: West Side Story, Popularity: 38
+Movie Title: Heavens Above, Popularity: 38
+Movie Title: Charly, Popularity: 38
+Movie Title: Runaway Barge, The, Popularity: 38
+Movie Title: James Taylor in Concert, Popularity: 38
+Movie Title: Naked Night, The, Popularity: 38
+Movie Title: Campus Man, Popularity: 38
+Movie Title: White Sands, Popularity: 38
+Movie Title: Lady from Louisiana, Popularity: 38
+Movie Title: Blue City, Popularity: 38
+Movie Title: Bloodbath, Popularity: 37
+Movie Title: Fuzz, Popularity: 37
+Movie Title: Good Morning, Vietnam, Popularity: 37
+Movie Title: Hour of the Wolf, Popularity: 37
+Movie Title: French Lieutenant's Woman, The, Popularity: 37
+Movie Title: Operation Nam, Popularity: 37
+Movie Title: Beverly Hills Cop II, Popularity: 37
+Movie Title: That Naughty Girl, Popularity: 37
+Movie Title: Shop on Main Street, The, Popularity: 37
+Movie Title: Road to Hong Kong, Popularity: 37
+Movie Title: Unnamable II, The Statement of Randolph Carter, The, Popularity: 36
+Movie Title: Two Mules for Sister Sara, Popularity: 36
+Movie Title: Videodrome, Popularity: 36
+Movie Title: Woman Times Seven, Popularity: 36
+Movie Title: Lilies of the Field, Popularity: 36
+Movie Title: Wheel of Fortune, Popularity: 36
+Movie Title: Kids & Pesticides, Popularity: 36
+Movie Title: From the Hip, Popularity: 36
+Movie Title: Easy Rider, Popularity: 36
+Movie Title: Green Berets, The, Popularity: 36
+Movie Title: Under Cover, Popularity: 36
+Movie Title: Hard Ticket to Hawaii, Popularity: 36
+Movie Title: Germicide, Popularity: 36
+Movie Title: Bobby Deerfield, Popularity: 36
+Movie Title: Midway, Popularity: 36
+Movie Title: Ikiru, Popularity: 36
+Movie Title: Secret Policeman's Private Parts, The, Popularity: 36
+Movie Title: Samson & Delilah, Popularity: 36
+Movie Title: Mistress, Popularity: 36
+Movie Title: People, The, Popularity: 36
+Movie Title: Snow Kill, Popularity: 35
+Movie Title: Sunshine Boys, The, Popularity: 35
+Movie Title: Final Countdown, The, Popularity: 35
+Movie Title: Grim Reaper, The, Popularity: 35
+Movie Title: Too Beautiful for You, Popularity: 35
+Movie Title: Fighting Seabees, The, Popularity: 35
+Movie Title: Torn Curtain, Popularity: 35
+Movie Title: American Friend, The, Popularity: 35
+Movie Title: Matt Talbot, Popularity: 35
+Movie Title: Au Revoir les Enfants, Popularity: 35
+Movie Title: Mutiny on the Bounty, Popularity: 35
+Movie Title: Lawless Frontier, The, Popularity: 35
+Movie Title: Burnt Offerings, Popularity: 35
+Movie Title: Anna Karenina, Popularity: 35
+Movie Title: Return of October, Popularity: 35
+Movie Title: Seventh Cross, The, Popularity: 35
+Movie Title: Voyage of the Damned, Popularity: 34
+Movie Title: Dragon Seed, Popularity: 34
+Movie Title: Naked Truth, The, Popularity: 34
+Movie Title: Ravishing Idiot, The, Popularity: 34
+Movie Title: Matador, Popularity: 34
+Movie Title: Europa Fifty-One, Popularity: 34
+Movie Title: Quiller Memorandum, The, Popularity: 34
+Movie Title: Manhunt, The, Popularity: 34
+Movie Title: For a Few Dollars More, Popularity: 34
+Movie Title: Into the Homeland, Popularity: 34
+Movie Title: Steve Martin, The Funnier Side of Eastern Canada, Popularity: 34
+Movie Title: Yellowbeard, Popularity: 34
+Movie Title: Caddyshack 2, Popularity: 34
+Movie Title: Electric Horseman, The, Popularity: 34
+Movie Title: Rabid, Popularity: 34
+Movie Title: Pals of the Saddle, Popularity: 33
+Movie Title: Casablanca Express, Popularity: 33
+Movie Title: Elena & Her Men, Popularity: 33
+Movie Title: Fly, The, Popularity: 33
+Movie Title: Producers, The, Popularity: 33
+Movie Title: Court-Martial of Jackie Robinson, The, Popularity: 33
+Movie Title: All New Tales from the Crypt, A Trilogy, Popularity: 33
+Movie Title: Monty Python's the Meaning of Life, Popularity: 33
+Movie Title: Midnight Cowboy, Popularity: 33
+Movie Title: Hunchback, Popularity: 33
+Movie Title: After Dark My Sweet, Popularity: 33
+Movie Title: Scalphunters, The, Popularity: 33
+Movie Title: Empire Strikes Back, The, Popularity: 33
+Movie Title: Napoleon & Samantha, Popularity: 33
+Movie Title: Tempest, Popularity: 33
+Movie Title: One Frightened Night, Popularity: 33
+Movie Title: Scanners, Popularity: 32
+Movie Title: Walpurgis Night, Popularity: 32
+Movie Title: Moonraker, Popularity: 32
+Movie Title: Immaculate Collection, The, Popularity: 32
+Movie Title: Let It Rock, Popularity: 32
+Movie Title: Terms of Endearment, Popularity: 32
+Movie Title: Shining, The, Popularity: 32
+Movie Title: Party, The, Popularity: 32
+Movie Title: Unforgiven, The, Popularity: 32
+Movie Title: My Left Foot, Popularity: 32
+Movie Title: Ironweed, Popularity: 32
+Movie Title: Last Temptation of Christ, The, Popularity: 32
+Movie Title: Passenger, The, Popularity: 32
+Movie Title: Freshman, The, Popularity: 32
+Movie Title: Intermezzo, Popularity: 32
+Movie Title: Jubal, Popularity: 32
+Movie Title: Camille Claudel, Popularity: 32
+Movie Title: Rachel, Rachel, Popularity: 32
+Movie Title: Shadow of a Doubt, Popularity: 32
+Movie Title: Apache Woman, Popularity: 32
+Movie Title: North to Alaska, Popularity: 31
+Movie Title: Bells of St. Mary's, The, Popularity: 31
+Movie Title: No Regrets for Our Youth, Popularity: 31
+Movie Title: Secret Beyond the Door, Popularity: 31
+Movie Title: Stacey!, Popularity: 31
+Movie Title: Falling in Love, Popularity: 31
+Movie Title: Shock 'em Dead, Popularity: 31
+Movie Title: Think Dirty, Popularity: 31
+Movie Title: Cyborg, Popularity: 31
+Movie Title: Running Man, The, Popularity: 31
+Movie Title: Little Prince, The, Popularity: 31
+Movie Title: Being There, Popularity: 31
+Movie Title: Night Gallery, Popularity: 31
+Movie Title: Juice, Popularity: 31
+Movie Title: Ranger of the Cherokee Strip, Popularity: 31
+Movie Title: My Best Girl, Popularity: 31
+Movie Title: Roller Blade, Popularity: 31
+Movie Title: Gangbusters, Popularity: 31
+Movie Title: Amazon, Popularity: 30
+Movie Title: Funny Farm, Popularity: 30
+Movie Title: Chattahoochee, Popularity: 30
+Movie Title: Wagon Master, Popularity: 30
+Movie Title: Missing, Popularity: 30
+Movie Title: Winter People, Popularity: 30
+Movie Title: Going Under, Popularity: 30
+Movie Title: A Very Private Affair, Popularity: 30
+Movie Title: Riders of Destiny, Popularity: 30
+Movie Title: Bright Lights, Big City, Popularity: 30
+Movie Title: Tom Thumb, Popularity: 30
+Movie Title: Valley Girl, Popularity: 30
+Movie Title: Funny Girl, Popularity: 30
+Movie Title: John Wayne Matinee Double Feature, No. 1, Popularity: 30
+Movie Title: Moon in the Gutter, The, Popularity: 29
+Movie Title: Monte Walsh, Popularity: 29
+Movie Title: Saint, The, Popularity: 29
+Movie Title: Fiendish Plot of Dr. Fu Manchu, The, Popularity: 29
+Movie Title: Police Academy 6: City under Siege, Popularity: 29
+Movie Title: Circus World, Popularity: 29
+Movie Title: Wait Until Spring Bandini, Popularity: 29
+Movie Title: Mr. & Mrs. Bridge, Popularity: 29
+Movie Title: Spiders, Popularity: 29
+Movie Title: Money, The, Popularity: 29
+Movie Title: Dead Ringers, Popularity: 29
+Movie Title: Port of Call, Popularity: 29
+Movie Title: Culpepper Cattle Company, The, Popularity: 29
+Movie Title: Exorcist II, The Heretic, Popularity: 29
+Movie Title: Wings of Eagles, The, Popularity: 29
+Movie Title: Prom Night III, The Last Kiss, Popularity: 29
+Movie Title: Ginger & Fred, Popularity: 29
+Movie Title: Butch Cassidy & the Sundance Kid, Popularity: 29
+Movie Title: French Lesson, Popularity: 29
+Movie Title: Alamo, The, Popularity: 29
+Movie Title: And God Created Woman, Popularity: 29
+Movie Title: Father Murphy, A Horse from Heaven, Popularity: 28
+Movie Title: Ladykillers, The, Popularity: 28
+Movie Title: Doughnuts & Society, Popularity: 28
+Movie Title: John Wayne Matinee Double Feature, No. 4, Popularity: 28
+Movie Title: Drowning by Numbers, Popularity: 28
+Movie Title: Trouble with Harry, The, Popularity: 28
+Movie Title: Exorcist, The, Popularity: 28
+Movie Title: Secret War of Harry Frigg, The, Popularity: 28
+Movie Title: Stewardess School, Popularity: 28
+Movie Title: QB VII, Popularity: 28
+Movie Title: Neath the Arizona Skies, Popularity: 28
+Movie Title: Cadillac Man, Popularity: 28
+Movie Title: After the Shock, Popularity: 28
+Movie Title: Elvira Madigan, Popularity: 28
+Movie Title: Patriot Games, Popularity: 28
+Movie Title: Last Tango in Paris, Popularity: 28
+Movie Title: Thirty Is a Dangerous Age, Cynthia, Popularity: 28
+Movie Title: Cousins, Popularity: 28
+Movie Title: Sugarland Express, The, Popularity: 28
+Movie Title: American Angels: Baptism of Blood, The, Popularity: 28
+Movie Title: Risky Business, Popularity: 28
+Movie Title: Magnum Force, Popularity: 28
+Movie Title: Lone Star Trail, The, Popularity: 27
+Movie Title: Lady Vanishes, Popularity: 27
+Movie Title: Gardens of Stone, Popularity: 27
+Movie Title: Outer Limits, The, Popularity: 27
+Movie Title: Dakota, Popularity: 27
+Movie Title: U S. Sub Standard., Popularity: 27
+Movie Title: Paris, Texas, Popularity: 27
+Movie Title: Spy Who Loved Me, The, Popularity: 27
+Movie Title: Hollywood Out-Takes & Rare Footage, Popularity: 27
+Movie Title: Silent Movie, Popularity: 27
+Movie Title: Men, The, Popularity: 27
+Movie Title: In Old California, Popularity: 27
+Movie Title: Human Desire, Popularity: 27
+Movie Title: Pet Sematary, Popularity: 27
+Movie Title: Stark, Popularity: 27
+Movie Title: Glory Stompers, The, Popularity: 27
+Movie Title: Control, Popularity: 27
+Movie Title: Dead Pool, The, Popularity: 26
+Movie Title: Greatest Story Ever Told, The, Popularity: 26
+Movie Title: Woman Who Came Back, Popularity: 26
+Movie Title: One Eyed Jacks, Popularity: 26
+Movie Title: Great White Death, Popularity: 26
+Movie Title: Salsa: The Motion Picture, Popularity: 26
+Movie Title: Powderkeg, Popularity: 26
+Movie Title: Partner, Popularity: 26
+Movie Title: Wild One, The, Popularity: 26
+Movie Title: Freejack, Popularity: 26
+Movie Title: Return Engagement, Popularity: 26
+Movie Title: Only One Night, Popularity: 26
+Movie Title: Ride in the Whirlwind, Popularity: 26
+Movie Title: Maverick, Duel at Sundown, Popularity: 26
+Movie Title: Rocket Gibraltar, Popularity: 26
+Movie Title: Empire of Spiritual Ninja, Popularity: 26
+Movie Title: Naked Obsession, Popularity: 26
+Movie Title: Long Gray Line, The, Popularity: 26
+Movie Title: Left Handed Gun, The, Popularity: 26
+Movie Title: Nothing But Trouble, Popularity: 25
+Movie Title: Gaslight, Popularity: 25
+Movie Title: Today We Kill....Tomorrow We Die, Popularity: 25
+Movie Title: Erik the Viking, Popularity: 25
+Movie Title: Mademoiselle Striptease, Popularity: 25
+Movie Title: Violent Men, The, Popularity: 25
+Movie Title: Prizzi's Honor, Popularity: 25
+Movie Title: Crack-Up, Popularity: 25
+Movie Title: Wisdom, Popularity: 25
+Movie Title: Hearts of Fire, Popularity: 25
+Movie Title: Raging Bull, Popularity: 25
+Movie Title: Boy Who Could Fly, The, Popularity: 25
+Movie Title: Survival Zone, Popularity: 25
+Movie Title: Street People, Popularity: 25
+Movie Title: Philadelphia Story, The, Popularity: 25
+Movie Title: Wrong Arm of the Law, The, Popularity: 25
+Movie Title: Green Card, Popularity: 25
+Movie Title: Wholly Moses!, Popularity: 25
+Movie Title: Working Girl, Popularity: 25
+Movie Title: Rear Window, Popularity: 25
+Movie Title: Bounty, The, Popularity: 25
+Movie Title: Anastasia, Popularity: 24
+Movie Title: Black & White in Color, Popularity: 24
+Movie Title: Savage Intruder, The, Popularity: 24
+Movie Title: Monty Python's Flying Circus, Vol 1., Popularity: 24
+Movie Title: Scream, Popularity: 24
+Movie Title: Seven Sinners, Popularity: 24
+Movie Title: Smallest Show on Earth, The, Popularity: 24
+Movie Title: La Chevre, (The Goat), Popularity: 24
+Movie Title: Postman Always Rings Twice, The, Popularity: 24
+Movie Title: Killer Tomatoes Strike Back, Popularity: 24
+Movie Title: Lonely Passion of Judith Hearne, The, Popularity: 24
+Movie Title: A Certain Sacrifice, Popularity: 24
+Movie Title: Quick Change, Popularity: 24
+Movie Title: Fair Game, Popularity: 24
+Movie Title: Strange Brew, Popularity: 24
+Movie Title: Night on Earth, Popularity: 24
+Movie Title: John Wayne Matinee Double Feature, No. 3, Popularity: 24
+Movie Title: Bird, Popularity: 24
+Movie Title: Nineteen Forty-One, Popularity: 24
+Movie Title: Final Terror, The, Popularity: 24
+Movie Title: Squeeze, The, Popularity: 23
+Movie Title: Colors, Popularity: 23
+Movie Title: Impulse, Popularity: 23
+Movie Title: Barfly, Popularity: 23
+Movie Title: Mannequin, Popularity: 23
+Movie Title: Raising Arizona, Popularity: 23
+Movie Title: A Smoky Mountain Christmas, Popularity: 23
+Movie Title: Girl from Petrovka, The, Popularity: 23
+Movie Title: Shakespeare Series, Popularity: 23
+Movie Title: I'm All Right Jack, Popularity: 23
+Movie Title: Mystery Train, Popularity: 23
+Movie Title: Hell Town, Popularity: 23
+Movie Title: Othello, The Lost Masterpiece, Popularity: 23
+Movie Title: Class of 1984, Popularity: 23
+Movie Title: I Died a Thousand Times, Popularity: 23
+Movie Title: Flying Leathernecks, Popularity: 23
+Movie Title: Twins, Popularity: 23
+Movie Title: All about Eve, Popularity: 23
+Movie Title: Sagebrush Trail, Popularity: 23
+Movie Title: On Golden Pond, Popularity: 23
+Movie Title: Intimate Stranger, Popularity: 23
+Movie Title: Last Movie, The, Popularity: 22
+Movie Title: Little Women, Popularity: 22
+Movie Title: Escape from Alcatraz, Popularity: 22
+Movie Title: Hollywood Mavericks, Popularity: 22
+Movie Title: Altered States, Popularity: 22
+Movie Title: Bloopers from Star Trek, Popularity: 22
+Movie Title: John Wayne Western Greats, Rio Bravo, Popularity: 22
+Movie Title: Big Trail, The, Popularity: 22
+Movie Title: Alice, Popularity: 22
+Movie Title: Jerk, The, Popularity: 22
+Movie Title: Wildcats, Popularity: 22
+Movie Title: Desiree, Popularity: 22
+Movie Title: Hellfighters, Popularity: 22
+Movie Title: Code Name, Emerald, Popularity: 22
+Movie Title: Second Coming of Suzanne., The, Popularity: 21
+Movie Title: Boys Town, Popularity: 21
+Movie Title: My Life As a Dog, Popularity: 21
+Movie Title: Ratings Game, The, Popularity: 21
+Movie Title: They Came from Within, Popularity: 21
+Movie Title: Super Duper Bloopers, Popularity: 21
+Movie Title: Elizabeth Taylor Collection, The, Popularity: 21
+Movie Title: Wild Geese, The, Popularity: 21
+Movie Title: Rainmaker, The, Popularity: 21
+Movie Title: Orphans, Popularity: 21
+Movie Title: My Country Right or Wrong, Popularity: 21
+Movie Title: Fighting Vigilantes, The, Popularity: 21
+Movie Title: Mission, The, Popularity: 20
+Movie Title: Children of a Lesser God, Popularity: 20
+Movie Title: Roadhouse Sixty-Six, Popularity: 20
+Movie Title: Vincent, Francois, Paul & the Others, Popularity: 20
+Movie Title: Picasso Trigger, Popularity: 20
+Movie Title: Wait Until Spring, Bandini, Popularity: 20
+Movie Title: Puppet Master, Popularity: 20
+Movie Title: King Kong Lives!, Popularity: 20
+Movie Title: Endless Love, Popularity: 20
+Movie Title: A Man for All Seasons, Popularity: 20
+Movie Title: Steppenwolf, Popularity: 20
+Movie Title: A Stolen Life, Popularity: 20
+Movie Title: Like Father Like Son, Popularity: 20
+Movie Title: Best of the Big Laff Off, The, Popularity: 20
+Movie Title: La Dolce Vita, Popularity: 20
+Movie Title: Purple Rose of Cairo, The, Popularity: 20
+Movie Title: Gotta Dance, Gotta Sing, Popularity: 20
+Movie Title: Masculine Feminine, Popularity: 20
+Movie Title: Devil's Eye, The, Popularity: 20
+Movie Title: North by Northwest, Popularity: 20
+Movie Title: Shadow of the Eagle, The, Popularity: 19
+Movie Title: Flashback, Popularity: 19
+Movie Title: Hot Money, Popularity: 19
+Movie Title: Quintet, Popularity: 19
+Movie Title: Edison the Man, Popularity: 19
+Movie Title: Big Fix, The, Popularity: 19
+Movie Title: Skull, Popularity: 19
+Movie Title: Crashing Thru, Popularity: 19
+Movie Title: Dollar, Popularity: 19
+Movie Title: Stand & Deliver, Popularity: 19
+Movie Title: Manhunter, Popularity: 19
+Movie Title: Flatliners, Popularity: 19
+Movie Title: Adventures in Dinosaur City, Popularity: 19
+Movie Title: Sayonara, Popularity: 19
+Movie Title: Santa Claus, The Movie, Popularity: 19
+Movie Title: Witches, The, Popularity: 18
+Movie Title: Comedy Tonight, Popularity: 18
+Movie Title: Bold Frontiersman, The, Popularity: 18
+Movie Title: Modern Love, Popularity: 18
+Movie Title: She's Having a Baby, Popularity: 18
+Movie Title: Cries & Whispers, Popularity: 18
+Movie Title: Catch a Rising Star, Tenth Anniversary, Popularity: 18
+Movie Title: Women in Love., Popularity: 18
+Movie Title: Old Maid, The, Popularity: 18
+Movie Title: School Daze, Popularity: 18
+Movie Title: Gauntlet, The, Popularity: 18
+Movie Title: Inherit the Wind, Popularity: 18
+Movie Title: Heroes, Popularity: 17
+Movie Title: Business As Usual, Popularity: 17
+Movie Title: Frantic, Popularity: 17
+Movie Title: Strangers on a Train, Popularity: 17
+Movie Title: So Fine, Popularity: 17
+Movie Title: Riders of Pasco Basin, Popularity: 17
+Movie Title: Terminator, The, Popularity: 17
+Movie Title: Night Is My Future, Popularity: 17
+Movie Title: Joe Versus the Volcano, Popularity: 17
+Movie Title: Bloody Mama, Popularity: 17
+Movie Title: Big Top Pee-wee, Popularity: 17
+Movie Title: Tex Rides with the Boy Scouts, Popularity: 17
+Movie Title: Crackers, Popularity: 17
+Movie Title: Cocaine Cowboys, Popularity: 17
+Movie Title: Hiroshima, Popularity: 17
+Movie Title: Tragedy of a Ridiculous Man, Popularity: 17
+Movie Title: Yakuza, The, Popularity: 16
+Movie Title: Twenty Four Hours in a Woman's Life, Popularity: 16
+Movie Title: Lady from Shanghai, Popularity: 16
+Movie Title: Lair of the White Worm, The, Popularity: 16
+Movie Title: Young Sherlock Holmes, Popularity: 16
+Movie Title: Thunderbolt & Lightfoot, Popularity: 16
+Movie Title: Wise Guys, Popularity: 16
+Movie Title: Voulez-Vous Danser Avec Moi?, Popularity: 16
+Movie Title: Ensign Pulver, Popularity: 16
+Movie Title: Red River, Popularity: 16
+Movie Title: Running Out of Luck, Popularity: 16
+Movie Title: Hurricane Smith, Popularity: 16
+Movie Title: Hideaways, Popularity: 16
+Movie Title: Some Kind of Wonderful, Popularity: 16
+Movie Title: Klute, Popularity: 15
+Movie Title: Love Songs, Popularity: 15
+Movie Title: A Woman Called Golda, Popularity: 15
+Movie Title: Ninja Masters of Death, Popularity: 15
+Movie Title: Le Choix des Armes, Popularity: 15
+Movie Title: Appaloosa, The, Popularity: 15
+Movie Title: Vampire Raiders, Ninja Queen, Popularity: 15
+Movie Title: Deep Cover, Popularity: 15
+Movie Title: Man Who Knew Too Much, The, Popularity: 15
+Movie Title: Scrooged, Popularity: 15
+Movie Title: Blood Alley, Popularity: 15
+Movie Title: Good Fellas, Popularity: 15
+Movie Title: Reckless, Popularity: 14
+Movie Title: Dreams, Popularity: 14
+Movie Title: Days of Heaven, Popularity: 14
+Movie Title: Deceivers, The, Popularity: 14
+Movie Title: Housesitter, Popularity: 14
+Movie Title: Pelle the Conqueror, Popularity: 14
+Movie Title: Target Eagle, Popularity: 14
+Movie Title: Fourth Protocol, The, Popularity: 14
+Movie Title: Big Jim McLain, Popularity: 14
+Movie Title: June Night, Popularity: 14
+Movie Title: Beauty & the Beast, Popularity: 14
+Movie Title: Batman, Popularity: 14
+Movie Title: Broadway Danny Rose, Popularity: 14
+Movie Title: Joe Piscopo New Jersey Special, Popularity: 14
+Movie Title: Almost an Angel, Popularity: 14
+Movie Title: Cry of the Innocent, Popularity: 13
+Movie Title: Judgement in Berlin, Popularity: 13
+Movie Title: Exodus, Popularity: 13
+Movie Title: Death of a Salesman, Popularity: 13
+Movie Title: Golden Ninja Invasion, Popularity: 13
+Movie Title: America's Music, Gospel, Popularity: 13
+Movie Title: Stakeout, Popularity: 13
+Movie Title: Desire under the Elms, Popularity: 13
+Movie Title: Cocktail, Popularity: 13
+Movie Title: Test Pilot, Popularity: 13
+Movie Title: Sounds of the Seventies...& the Beat Goes, Popularity: 13
+Movie Title: Bill Cosby, Live at Harrah's, Popularity: 13
+Movie Title: Last Time I Saw Paris, The, Popularity: 13
+Movie Title: A Big Hand for the Little Lady, Popularity: 12
+Movie Title: Sweet Liberty, Popularity: 12
+Movie Title: Penn & Teller Get Killed, Popularity: 12
+Movie Title: Little Dorrit, Popularity: 12
+Movie Title: Best of Candid Camera, The, Popularity: 12
+Movie Title: Minsky's Follies, Popularity: 12
+Movie Title: Exile in Concert, Popularity: 12
+Movie Title: Woman of the Year, Popularity: 12
+Movie Title: Ferris Bueller's Day Off, Popularity: 12
+Movie Title: Cahill, United States Marshal, Popularity: 12
+Movie Title: Topaz, Popularity: 12
+Movie Title: Pink Cadillac, Popularity: 12
+Movie Title: Lady for a Night, Popularity: 12
+Movie Title: Sweet Smell of Success, Popularity: 12
+Movie Title: Prisoner of Zenda, The, Popularity: 12
+Movie Title: My Darling Clementine, Popularity: 12
+Movie Title: Casino Royale, Popularity: 11
+Movie Title: California Suite, Popularity: 11
+Movie Title: Sundays & Cybele, Popularity: 11
+Movie Title: Coming to America, Popularity: 11
+Movie Title: Killers of Kilimanjaro, Popularity: 11
+Movie Title: Summer, Popularity: 11
+Movie Title: Teahouse of the August Moon, Popularity: 11
+Movie Title: Bloodbrothers, Popularity: 11
+Movie Title: Elephant Walk, Popularity: 11
+Movie Title: Star Trek VI: The Undiscovered Country, Popularity: 11
+Movie Title: Hawks, Popularity: 11
+Movie Title: Monty Python's Life of Brian, Popularity: 11
+Movie Title: No Mercy, Popularity: 11
+Movie Title: Tom Sawyer, Popularity: 11
+Movie Title: Harlem Nights, Popularity: 11
+Movie Title: Shining Through, Popularity: 11
+Movie Title: Madame Rosa, Popularity: 11
+Movie Title: Clint Eastwood Collection, The, Popularity: 11
+Movie Title: Big Town, The, Popularity: 11
+Movie Title: Stanley & Livingstone, Popularity: 11
+Movie Title: Young Lions, The, Popularity: 10
+Movie Title: Rain Killer, The, Popularity: 10
+Movie Title: El Cid, Popularity: 10
+Movie Title: Kiss of the Spider Woman, Popularity: 10
+Movie Title: Fire & Rain, Popularity: 10
+Movie Title: Clockwise, Popularity: 10
+Movie Title: If Looks Could Kill, Popularity: 10
+Movie Title: Life with Father, Popularity: 10
+Movie Title: Vertigo, Popularity: 10
+Movie Title: Blame It on Rio, Popularity: 10
+Movie Title: My Fair Lady, Popularity: 10
+Movie Title: Final Alliance, The, Popularity: 10
+Movie Title: Carnal Knowledge, Popularity: 10
+Movie Title: Frisco Kid, The, Popularity: 10
+Movie Title: Going for the Gold, Popularity: 10
+Movie Title: No Small Affair, Popularity: 10
+Movie Title: Day for Night, Popularity: 10
+Movie Title: Mr Love., Popularity: 10
+Movie Title: Searchers, The, Popularity: 9
+Movie Title: Eighty-Four Charing Cross Road, Popularity: 9
+Movie Title: Plenty, Popularity: 9
+Movie Title: Dead-Bang, Popularity: 9
+Movie Title: Back to the Future, Popularity: 9
+Movie Title: Basil The Rat, Popularity: 9
+Movie Title: Seven Samurai, Popularity: 9
+Movie Title: Judge Priest, Popularity: 9
+Movie Title: Deadline, Popularity: 9
+Movie Title: Death Valley Days, Deadly Decision, Popularity: 9
+Movie Title: Glitz, Popularity: 9
+Movie Title: Lionheart, Popularity: 9
+Movie Title: Morituri, Popularity: 9
+Movie Title: Tango & Cash, Popularity: 9
+Movie Title: Bandolero!, Popularity: 9
+Movie Title: Naked Gun: From the Files of Police Squad!, THe, Popularity: 9
+Movie Title: Boxing Babes, Popularity: 9
+Movie Title: Hannie Caulder, Popularity: 9
+Movie Title: Masque of the Red Death, Popularity: 9
+Movie Title: Fire with Fire, Popularity: 9
+Movie Title: New York, New York, Popularity: 8
+Movie Title: Le Repos Du Guerrier, (Warrior's Rest), Popularity: 8
+Movie Title: Born on the Fourth of July, Popularity: 8
+Movie Title: Awakenings, Popularity: 8
+Movie Title: Packin' It In, Popularity: 8
+Movie Title: Godfather, The, Popularity: 8
+Movie Title: Godfather, Pt 2., The, Popularity: 8
+Movie Title: Addams Family, The, Popularity: 8
+Movie Title: Thirty-Nine Steps, The, Popularity: 8
+Movie Title: Bullseye!, Popularity: 8
+Movie Title: Patton, Popularity: 8
+Movie Title: Firemen's Ball, The, Popularity: 8
+Movie Title: Highlander, Popularity: 8
+Movie Title: Pioneer Marshal, Popularity: 8
+Movie Title: Married to the Mob, Popularity: 8
+Movie Title: Raiders of the Lost Ark, Popularity: 8
+Movie Title: Indiana Jones & the Last Crusade, Popularity: 8
+Movie Title: Torn Apart, Popularity: 8
+Movie Title: Fisher King, The, Popularity: 8
+Movie Title: Apocalypse Now, Popularity: 8
+Movie Title: Hawaii, Popularity: 8
+Movie Title: Boy Friend, THe, Popularity: 8
+Movie Title: Torment, Popularity: 8
+Movie Title: Name of the Rose, The, Popularity: 8
+Movie Title: Platoon, Popularity: 8
+Movie Title: Mister Roberts, Popularity: 8
+Movie Title: Thunderball, Popularity: 8
+Movie Title: Hunt for Red October, The, Popularity: 8
+Movie Title: Terminator 2, Popularity: 8
+Movie Title: Rain Man, Popularity: 8
+Movie Title: Murder on the Orient Express, Popularity: 8
+Movie Title: Killer Image., Popularity: 8
+Movie Title: Dead Poets Society, Popularity: 8
+Movie Title: Lawless Frontier, Popularity: 8
+Movie Title: Tootsie, Popularity: 8
+Movie Title: Silence of the Lambs, The, Popularity: 8
+Movie Title: Virgin Spring, The, Popularity: 8
+Movie Title: Scenes from a Mall, Popularity: 8
+Movie Title: Hannah & Her Sisters, Popularity: 8
+Movie Title: Witches of Eastwick, The, Popularity: 8
+Movie Title: Diamonds are Forever, Popularity: 8
+Movie Title: Romantic Comedy, Popularity: 8
+Movie Title: E. T. The Extra-Terrestrial, Popularity: 8
+Movie Title: Total Recall, Popularity: 8
+Movie Title: Never Say Never Again, Popularity: 8
+Movie Title: Kramer vs. Kramer, Popularity: 8
+Movie Title: Top Gun, Popularity: 8
+Movie Title: Hurricane, Popularity: 8
+Movie Title: Dances with Wolves, Popularity: 8
+Movie Title: Robin Hood: Prince of Thieves, Popularity: 8
+Movie Title: Joan of Arc, Popularity: 7
+Movie Title: Gandhi, Popularity: 7
+Movie Title: Hurricane Express, Popularity: 7
+Movie Title: Border Shootout, Popularity: 7
+Movie Title: Nine & a Half Weeks, Popularity: 7
+Movie Title: Blind Date, Popularity: 7
+Movie Title: Outland, Popularity: 7
+Movie Title: Appointment in Honduras, Popularity: 7
+Movie Title: Dangerous Moves, Popularity: 7
+Movie Title: Paper Chase, The, Popularity: 7
+Movie Title: Sometimes a Great Notion, Popularity: 7
+Movie Title: Battleground, The, Popularity: 7
+Movie Title: Bad Boys, Popularity: 7
+Movie Title: Great Train Robbery, The, Popularity: 7
+Movie Title: Big Blue, The, Popularity: 7
+Movie Title: Longest Day, The, Popularity: 7
+Movie Title: A Fish Called Wanda, Popularity: 7
+Movie Title: Bellboy & the Playgirls, The, Popularity: 7
+Movie Title: Another Woman, Popularity: 7
+Movie Title: Untouchables, The, Popularity: 7
+Movie Title: Dr. No, Popularity: 7
+Movie Title: Two-Way Stretch, Popularity: 7
+Movie Title: Cape Fear, Popularity: 7
+Movie Title: Priceless Beauty, Popularity: 7
+Movie Title: Shy People, Popularity: 7
+Movie Title: Red Tent, The, Popularity: 7
+Movie Title: Naked Lie, Popularity: 7
+Movie Title: Bedtime Story, Popularity: 7
+Movie Title: New York Stories, Popularity: 6
+Movie Title: Garrison Keillor's Home, Popularity: 6
+Movie Title: Web of Deceit, Popularity: 6
+Movie Title: Quo Vadis, Popularity: 6
+Movie Title: Zardoz, Popularity: 6
+Movie Title: Police Academy 3: Back in Training, Popularity: 6
+Movie Title: Swing It Sailor!, Popularity: 6
+Movie Title: Cuba, Popularity: 6
+Movie Title: Will Rogers, Look Back in Laughter, Popularity: 6
+Movie Title: Sanjuro, Popularity: 6
+Movie Title: Blue Velvet, Popularity: 6
+Movie Title: Killing Fields, The, Popularity: 6
+Movie Title: La Femme Nikita, Popularity: 6
+Movie Title: Moonstruck, Popularity: 6
+Movie Title: End of Innocence, The, Popularity: 6
+Movie Title: Man Who Would Be King, The, Popularity: 6
+Movie Title: Wild at Heart, Popularity: 6
+Movie Title: I Will, I Will...For Now, Popularity: 6
+Movie Title: Crossing Delancey, Popularity: 6
+Movie Title: Ghost, Popularity: 6
+Movie Title: Medicine Man, Popularity: 6
+Movie Title: Live at Harrah's, Popularity: 6
+Movie Title: Chariots of Fire, Popularity: 6
+Movie Title: Offence, The, Popularity: 6
+Movie Title: Amadeus, Popularity: 6
+Movie Title: House on Carroll Street, The, Popularity: 6
+Movie Title: Goodbye Again, Popularity: 6
+Movie Title: From Russia with Love, Popularity: 6
+Movie Title: Cat Chaser, Popularity: 6
+Movie Title: Driving Miss Daisy, Popularity: 6
+Movie Title: What about Bob?, Popularity: 6
+Movie Title: Color of Money, The, Popularity: 6
+Movie Title: Subway, Popularity: 6
+Movie Title: Robin & Marian, Popularity: 6
+Movie Title: Passion of Anna, The, Popularity: 6
+Movie Title: Empire of the Sun, Popularity: 6
+Movie Title: Goodbye Girl, The, Popularity: 6
+Movie Title: Sammy & Rosie Get Laid, Popularity: 6
+Movie Title: Morning After, The, Popularity: 6
+Movie Title: Overboard, Popularity: 6
+Movie Title: Jaws, Popularity: 6
+Movie Title: A Fine Madness, Popularity: 6
+Movie Title: Executive Action, Popularity: 6
+Movie Title: Eddie Murphy, Delirious, Popularity: 6
+Movie Title: Hallelujah Trail, The, Popularity: 6
+Movie Title: Wall Street, Popularity: 6
+Movie Title: Vanishing Westerner, Popularity: 6
+Movie Title: Un Hombre y una Mujer, Popularity: 6
+Movie Title: Tommy, Popularity: 5
+Movie Title: Nights in White Satin, Popularity: 5
+Movie Title: McQ, Popularity: 5
+Movie Title: Meteor, Popularity: 5
+Movie Title: Time Lock, Popularity: 5
+Movie Title: Rita, Sue & Bob Too, Popularity: 5
+Movie Title: Big Shots, Popularity: 5
+Movie Title: Enemies, a Love Story, Popularity: 5
+Movie Title: Sword of the Valiant, Popularity: 5
+Movie Title: Secret of My Success, The, Popularity: 5
+Movie Title: Unbearable Lightness of Being, The, Popularity: 5
+Movie Title: Time Bandits, Popularity: 5
+Movie Title: Family Business, Popularity: 5
+Movie Title: Casino, Popularity: 5
+Movie Title: Van, The, Popularity: 5
+Movie Title: Operation Pacific, Popularity: 5
+Movie Title: Do the Right Thing, Popularity: 5
+Movie Title: Trapper County War, Popularity: 5
+Movie Title: Shooting Elizabeth, Popularity: 5
+Movie Title: Comfort of Strangers, The, Popularity: 5
+Movie Title: Never Let Go, Popularity: 5
+Movie Title: Danton, Popularity: 5
+Movie Title: Robin Williams, Popularity: 4
+Movie Title: Monty Python's Flying Circus, Popularity: 4
+Movie Title: Modern Times, Popularity: 4
+Movie Title: Magic Town, Popularity: 4
+Movie Title: Another Time, Another Place, Popularity: 4
+Movie Title: Sea Chase, The, Popularity: 4
+Movie Title: Crimes of Passion, Popularity: 4
+Movie Title: Plain Clothes, Popularity: 4
+Movie Title: Fort Apache, Popularity: 4
+Movie Title: Le Charme Discret de la Bourgeoisie, Popularity: 4
+Movie Title: What Price Glory?, Popularity: 4
+Movie Title: Presidio, The, Popularity: 4
+Movie Title: Hook, Popularity: 4
+Movie Title: Tonight for Sure, Popularity: 4
+Movie Title: Rumble Fish, Popularity: 4
+Movie Title: Terrorists, The, Popularity: 4
+Movie Title: Testament of Dr. Mabuse, The, Popularity: 4
+Movie Title: Return of the Jedi, Popularity: 4
+Movie Title: Out of the Blue, Popularity: 4
+Movie Title: Losin' It, Popularity: 4
+Movie Title: O. C. & Stiggs, Popularity: 3
+Movie Title: Mr. & Mrs. Smith, Popularity: 3
+Movie Title: Paper Moon, Popularity: 3
+Movie Title: His Majesty O'Keefe, Popularity: 3
+Movie Title: Primal Rage, Popularity: 3
+Movie Title: Alan & Naomi, Popularity: 3
+Movie Title: Fugitive Kind, The, Popularity: 3
+Movie Title: Star Chamber, The, Popularity: 3
+Movie Title: Lawless Nineties, The, Popularity: 3
+Movie Title: Steve Martin Live!, Popularity: 3
+Movie Title: Elephant Man, The, Popularity: 3
+Movie Title: Fortune Cookie, The, Popularity: 3
+Movie Title: Dark Age, Popularity: 3
+Movie Title: Scenes from a Marriage, Popularity: 3
+Movie Title: This Is Horror, Popularity: 3
+Movie Title: John Wayne Matinee Double Feature, No. 2, Popularity: 3
+Movie Title: Days of Thunder, Popularity: 3
+Movie Title: John Wayne Collector's Limited Edition, Popularity: 3
+Movie Title: Magician, The, Popularity: 3
+Movie Title: Internal Affairs, Popularity: 3
+Movie Title: Hope & Glory, Popularity: 3
+Movie Title: Molly Maguires, The, Popularity: 3
+Movie Title: Strictly Business, Popularity: 3
+Movie Title: River's Edge, Popularity: 3
+Movie Title: Two Jakes, The, Popularity: 3
+Movie Title: Four American Composers, Popularity: 3
+Movie Title: Johnny Dangerously, Popularity: 3
+Movie Title: Adam at 6 A.M., Popularity: 3
+Movie Title: Russia House, The, Popularity: 3
+Movie Title: Running on Empty, Popularity: 2
+Movie Title: Mary White, Popularity: 2
+Movie Title: Out for Justice, Popularity: 2
+Movie Title: Gor, Popularity: 2
+Movie Title: Racketeer, Popularity: 2
+Movie Title: Marnie, Popularity: 2
+Movie Title: Curly Sue, Popularity: 2
+Movie Title: Taming of the Shrew, The, Popularity: 2
+Movie Title: Running Away, Popularity: 2
+Movie Title: Blackmail, Popularity: 2
+Movie Title: Reuben, Reuben, Popularity: 2
+Movie Title: Hud, Popularity: 2
+Movie Title: Winter Light, Popularity: 2
+Movie Title: Wind & the Lion, The, Popularity: 2
+Movie Title: Eraserhead, Popularity: 2
+Movie Title: Hoosiers, Popularity: 2
+Movie Title: A Walk in the Spring Rain, Popularity: 2
+Movie Title: Five Easy Pieces, Popularity: 2
+Movie Title: Tokyo Pop, Popularity: 2
+Movie Title: So Ends Our Night, Popularity: 2
+Movie Title: Treasure Seekers, The, Popularity: 2
+Movie Title: Stavisky, Popularity: 1
+Movie Title: Last Emperor, The, Popularity: 1
+Movie Title: Cheyenne, The Iron Trail, Popularity: 1
+Movie Title: Dead Calm, Popularity: 1
+Movie Title: Indiscreet, Popularity: 1
+Movie Title: Hells Angels on Wheels, Popularity: 1
+Movie Title: Anderson Tapes, The, Popularity: 1
+Movie Title: Wagonmaster, Popularity: 1
+Movie Title: Law of the Golden West, Popularity: 1
+Movie Title: Operation Crossbow, Popularity: 1
+Movie Title: Death Valley Days, No Gun Behind His Badge, Popularity: 1
+Movie Title: Ratboy, Popularity: 1
+Movie Title: Holocaust, Popularity: 1
+Movie Title: Blade Runner, Popularity: 1
+Movie Title: A Show of Force, Popularity: 1
+Movie Title: Coming Home, Popularity: 1
+Movie Title: Conversation Piece, Popularity: 1
+Movie Title: An Officer & a Gentleman, Popularity: 1
+Movie Title: Anna Christie, Popularity: 0
+Movie Title: Shalako, Popularity: 0
+Movie Title: Flame & the Arrow, The, Popularity: 0
+Movie Title: Nightmare at Noon, Popularity: 0
+Movie Title: Tales of Tomorrow, Popularity: 0
+Movie Title: Knights & Emeralds, Popularity: 
+Movie Title: Employee's Entrance, Popularity: 0
+Movie Title: Bank on the Stars, Popularity: 
+Movie Title: Airport, Popularity: 0
+Movie Title: White Lightning, Popularity: 
+Movie Title: Drop Kick, The, Popularity: 
+Movie Title: After the Rehearsal, Popularity: 0
+Movie Title: Hot Child in the City, Popularity: 0
+Movie Title: Desert Rider, Popularity: 
+Movie Title: A Chorus of Disapproval, Popularity: 0
+Movie Title: It's My Turn, Popularity: 0
+Movie Title: Shout at the Devil, Popularity: 0
+Movie Title: Ninja, the Violent Sorcerer, Popularity: 
+Actress: Alexander, Denise, starring in: Lindbergh Kidnapping Case, The
+Action and Comedy years are equal: False
+Sanity check, is comedy equal to comedy, the eternal question: True

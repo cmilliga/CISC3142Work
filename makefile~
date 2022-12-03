@@ -1,15 +1,3 @@
-lab10:	MovieAlgorithms	
-	@echo "Running Program MovieAlgorithms"
-	cd Exercise10 && ./MovieAlgorithms
-
-MovieAlgorithms: Exercise10/MovieAlgorithms.o
-	cd Exercise10; \
-	g++ MovieAlgorithms.o -o MovieAlgorithms
-
-MovieAlgorithms.o: Exercise10/MovieAlgorithms.cpp
-	cd Exercise10; \
-	g++ -c MovieAlgorithms.cpp -o MovieAlgorithms.o
-
 lab9:	WeatherAverages	
 	@echo "Running Program WeatherAverages"
 	cd Exercise9 && ./WeatherAverages
